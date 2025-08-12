@@ -52,8 +52,14 @@
     },
     {
         "_id": "lFNWtI",
-        "name": "burn Toy",
-        "price": null,
+        "name": "burn Toy new name",
+        "imgUrl": "src/assets/img/toy2.jpg",
+        "price": 258,
+        "labels": [
+            "Outdoor",
+            "Puzzle",
+            "On wheels"
+        ],
         "createdAt": 1755000587659,
         "inStock": true
     },

@@ -63,15 +63,21 @@ function remove(toyId, loggedinUser) {
 
 
 function save(toyToSave, loggedinUser) {
-    console.log(toyToSave);
     if (toyToSave._id) {
+        console.log(toyToSave.price===NaN);
         
+        for (const key in toyToSave) {
+            if (toyToSave[key] === undefined || Number.isNaN(toyToSave[key])) {
+                delete toyToSave[key];
+            }
+        }
         const idx = toys.findIndex(toy => toy._id === toyToSave._id)
         if (idx === -1) return Promise.reject('Cannot find toy - ' + toyToSave._id)
         // if (!loggedinUser.isAdmin && toys[idx].creator._id !== loggedinUser._id) {
         //     return Promise.reject('Not your toy')
         // }
         toyToSave = { ...toys[idx], ...toyToSave }
+        console.log(toyToSave);
         toys[idx] = toyToSave
     } else {
         toyToSave._id = makeId()

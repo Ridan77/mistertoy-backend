@@ -5,9 +5,22 @@ import cookieParser from 'cookie-parser'
 import { toyService } from './services/toyService.js'
 import { userService } from './services/user.service.js'
 import { loggerService } from './services/logger.service.js'
-
+import cors from 'cors'
 
 const app = express()
+
+const corsOptions = {
+    origin: [
+        'http://127.0.0.1:5173',
+        'http://localhost:5173',
+        'http://127.0.0.1:5174',
+        'http://localhost:5174'
+    ],
+    credentials: true
+}
+// Express Config:
+app.use(cors(corsOptions))
+
 
 
 //* Express Config:
@@ -93,6 +106,8 @@ app.put('/api/toy/:toyId', (req, res) => {
         onStock: req.body.onStock
 
     }
+  console.log(toyToSave);
+  
     toyService.save(toyToSave)
         .then(savedToy => res.send(savedToy))
         .catch(err => {

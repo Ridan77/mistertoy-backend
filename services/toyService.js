@@ -5,22 +5,18 @@ const toys = readJsonFile('data/toys.json')
 
 export const toyService = {
     query,
-    // getById,
-    // remove,
-    // save,
+    getById,
+    remove,
+    save,
 }
 
 
 function query(filterBy = {}) {
     let toysToReturn = toys
-
-    console.log(toysToReturn);
     if (filterBy.txt) {
         const regExp = new RegExp(filterBy.txt, 'i')
         toysToReturn = toysToReturn.filter(toy => regExp.test(toy.name))
     }
-    console.log(toysToReturn);
-    
     if (filterBy.status !== 'all') {
         toysToReturn = toysToReturn.filter((toy) => {
 
@@ -31,7 +27,7 @@ function query(filterBy = {}) {
 
     if (filterBy.labels?.length > 0) {
         console.log('inside labels');
-        
+
         toysToReturn = toysToReturn.filter(toy => toy.labels.some(label => filterBy.labels.includes(label)))
     }
 
@@ -46,8 +42,89 @@ function query(filterBy = {}) {
             toysToReturn = toysToReturn.sort((a, b) => a.price - b.price);
         }
     }
-    console.log(toysToReturn);
-    
     return Promise.resolve(toysToReturn)
+}
 
+function getById(toyId) {
+    const toy = toys.find(toy => toy._id === toyId)
+    if (!toy) return Promise.reject('Cannot find toy - ' + toyId)
+    return Promise.resolve(toy)
+}
+
+function remove(toyId, loggedinUser) {
+    const toyIdx = toys.findIndex(toy => toy._id === toyId)
+    if (toyIdx === -1) return Promise.reject('Cannot find toy - ' + toyId)
+    // // if (!loggedinUser.isAdmin && loggedinUser._id !== toys[toyIdx].creator._id) {
+    //     return Promise.reject('Not your toy')
+    // }
+    toys.splice(toyIdx, 1)
+    return _saveToysToFile()
+}
+
+
+function save(toyToSave, loggedinUser) {
+    console.log(toyToSave);
+    if (toyToSave._id) {
+        
+        const idx = toys.findIndex(toy => toy._id === toyToSave._id)
+        if (idx === -1) return Promise.reject('Cannot find toy - ' + toyToSave._id)
+        // if (!loggedinUser.isAdmin && toys[idx].creator._id !== loggedinUser._id) {
+        //     return Promise.reject('Not your toy')
+        // }
+        toyToSave = { ...toys[idx], ...toyToSave }
+        toys[idx] = toyToSave
+    } else {
+        toyToSave._id = makeId()
+        toyToSave.createdAt = Date.now()
+        toyToSave.labels = getLabels()
+        toys.unshift(toyToSave)
+    }
+    return _saveToysToFile().then(() => toyToSave)
+        .catch(err => {
+            loggerService.error('Cannot save toy', err)
+            res.status(500).send('Cannot save toy')
+            throw (err)
+        })
+}
+
+
+
+
+
+
+
+
+function _saveToysToFile() {
+    return new Promise((resolve, reject) => {
+        const data = JSON.stringify(toys, null, 4)
+        fs.writeFile('data/toys.json', data, (err) => {
+            if (err) {
+                return reject(err)
+            }
+            resolve()
+        })
+    })
+}
+
+
+
+function getLabels() {
+    const nums = getRandomThree()
+    const labels = ['On wheels', 'Box game', 'Art', 'Baby', 'Doll', 'Puzzle',
+        'Outdoor', 'Battery Powered']
+    var lbls = []
+    lbls.unshift(labels[nums[0]])
+    lbls.unshift(labels[nums[1]])
+    lbls.unshift(labels[nums[2]])
+    return lbls
+}
+
+function getRandomThree() {
+    const numbers = [0, 1, 2, 3, 4, 5, 6, 7]
+    const result = []
+    for (let i = 0; i < 3; i++) {
+        const randIndex = Math.floor(Math.random() * numbers.length)
+        result.push(numbers.splice(randIndex, 1)[0])
+    }
+    return result
 }

@@ -22,11 +22,11 @@ app.set('query parser', 'extended')
 app.get('/api/toy', (req, res) => {
     const filterBy = {
         txt: req.query.txt || '',
-        labels: req.query.labels||[],
-        status: req.query.status|| 'all',
+        labels: req.query.labels || [],
+        status: req.query.status || 'all',
         sort: req.query.sort || ''
     }
-     toyService.query(filterBy)
+    toyService.query(filterBy)
         .then(toys => res.send(toys))
         .catch(err => {
             loggerService.error('Cannot get toys', err)
@@ -37,11 +37,67 @@ app.get('/api/toy', (req, res) => {
 // Read by ID
 app.get('/api/toy/:toyId', (req, res) => {
     const { toyId } = req.params
-     toyService.getById(toyId)
-        .then(toy => {res.send(toy)})
+    toyService.getById(toyId)
+        .then(toy => { res.send(toy) })
         .catch(err => {
             loggerService.error('Cannot get toy', err)
             res.status(500).send('Cannot load toy')
+        })
+})
+
+//* Remove/Delete
+
+app.delete('/api/toy/:toyId/', (req, res) => {
+    // const loggedinUser = authService.validateToken(req.cookies.loginToken)
+    // if (!loggedinUser) return res.status(401).send('Not authenticated')
+    const { toyId } = req.params
+
+    toyService.remove(toyId)
+        .then(() => res.send(`Toy removed! ${toyId} `))
+        .catch(err => {
+            loggerService.error('Cannot remove toy', err)
+            res.status(500).send('Cannot remove toy')
+        })
+
+})
+
+// Add
+app.post('/api/toy/', (req, res) => {
+
+    // const loggedinUser = authService.validateToken(req.cookies.loginToken)
+    // if (!loggedinUser) return res.status(401).send('Not authenticated')
+
+    const toyToSave = {
+        name: req.body.name,
+        price: +req.body.price,
+        imgUrl: req.body.imgUrl
+    }
+    toyService.save(toyToSave)
+        .then(savedToy => res.send(savedToy))
+        .catch(err => {
+            loggerService.error('Cannot save toy', err)
+            res.status(500).send('Cannot save toy')
+        })
+})
+
+// Edit
+app.put('/api/toy/:toyId', (req, res) => {
+    // const loggedinUser = authService.validateToken(req.cookies.loginToken)
+    // if (!loggedinUser) return res.status(401).send('Not authenticated')
+    const toyToSave = {
+        _id: req.body._id,
+        name: req.body.name,
+        price: +req.body.price,
+        imgUrl: req.body.imgUrl,
+        labels: req.body.labels,
+        onStock: req.body.onStock
+
+    }
+    toyService.save(toyToSave)
+        .then(savedToy => res.send(savedToy))
+        .catch(err => {
+            loggerService.error('Cannot save toy', err)
+            res.status(500).send('Cannot save toy')
         })
 })
 
@@ -52,7 +108,7 @@ app.get('/*all', (req, res) => {
 
 
 const PORT = process.env.PORT || 3030
-app.listen(PORT, () =>{
+app.listen(PORT, () => {
     console.log(`Server listening on port http://127.0.0.1:${PORT}/`)
     loggerService.info(`Server listening on port http://127.0.0.1:${PORT}/`)
 }

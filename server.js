@@ -17,7 +17,7 @@ app.use(express.json())
 app.set('query parser', 'extended')
 
 
-//* Read
+//* Read All
 
 app.get('/api/toy', (req, res) => {
     const filterBy = {
@@ -26,11 +26,7 @@ app.get('/api/toy', (req, res) => {
         status: req.query.status|| 'all',
         sort: req.query.sort || ''
     }
-
-    console.log(filterBy);
-    
-    
-    toyService.query(filterBy)
+     toyService.query(filterBy)
         .then(toys => res.send(toys))
         .catch(err => {
             loggerService.error('Cannot get toys', err)
@@ -38,6 +34,16 @@ app.get('/api/toy', (req, res) => {
         })
 })
 
+// Read by ID
+app.get('/api/toy/:toyId', (req, res) => {
+    const { toyId } = req.params
+     toyService.getById(toyId)
+        .then(toy => {res.send(toy)})
+        .catch(err => {
+            loggerService.error('Cannot get toy', err)
+            res.status(500).send('Cannot load toy')
+        })
+})
 
 // Fallback route
 app.get('/*all', (req, res) => {

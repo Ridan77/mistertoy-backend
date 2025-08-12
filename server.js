@@ -19,19 +19,22 @@ app.set('query parser', 'extended')
 
 //* Read
 
-app.get('/api/bug', (req, res) => {
+app.get('/api/toy', (req, res) => {
     const filterBy = {
-        txt: req.query.txt,
-        labels: req.query.labels,
-        status: req.query.status,
-        sort: req.query.sort
+        txt: req.query.txt || '',
+        labels: req.query.labels||[],
+        status: req.query.status|| 'all',
+        sort: req.query.sort || ''
     }
+
+    console.log(filterBy);
     
-    bugService.query(filterBy)
-        .then(bugs => res.send(bugs))
+    
+    toyService.query(filterBy)
+        .then(toys => res.send(toys))
         .catch(err => {
-            loggerService.error('Cannot get bugs', err)
-            res.status(500).send('Cannot get bugs')
+            loggerService.error('Cannot get toys', err)
+            res.status(500).send('Cannot get toys')
         })
 })
 

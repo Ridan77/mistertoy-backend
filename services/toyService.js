@@ -5,42 +5,49 @@ const toys = readJsonFile('data/toys.json')
 
 export const toyService = {
     query,
-    getById,
-    remove,
-    save,
+    // getById,
+    // remove,
+    // save,
 }
 
 
 function query(filterBy = {}) {
-    let toyToReturn = toys
+    let toysToReturn = toys
 
+    console.log(toysToReturn);
     if (filterBy.txt) {
         const regExp = new RegExp(filterBy.txt, 'i')
-        toyToReturn = toyToReturn.filter(toy => regExp.test(toy.txt))
+        toysToReturn = toysToReturn.filter(toy => regExp.test(toy.name))
     }
+    console.log(toysToReturn);
+    
     if (filterBy.status !== 'all') {
-        toyToReturn = toyToReturn.filter((toy) => {
+        toysToReturn = toysToReturn.filter((toy) => {
 
             const sts = toy.inStock ? 'inStock' : 'notInStock'
             return (filterBy.status === sts)
         })
     }
 
-    if (filterBy.labels.length > 0) {
-        toyToReturn = toyToReturn.filter(toy => toy.labels.some(label => filterBy.labels.includes(label)))
+    if (filterBy.labels?.length > 0) {
+        console.log('inside labels');
+        
+        toysToReturn = toysToReturn.filter(toy => toy.labels.some(label => filterBy.labels.includes(label)))
     }
 
     if (filterBy.sort) {
         if (filterBy.sort === 'name') {
 
             console.log('inside')
-            toyToReturn = toyToReturn.sort((a, b) => a.name.localeCompare(b.name));
+            toysToReturn = toysToReturn.sort((a, b) => a.name.localeCompare(b.name));
         } else if (filterBy.sort === 'createdAt') {
-            toyToReturn = toyToReturn.sort((a, b) => a.createdAt - b.createdAt);
+            toysToReturn = toysToReturn.sort((a, b) => a.createdAt - b.createdAt);
         } else if (filterBy.sort === 'price') {
-            toyToReturn = toyToReturn.sort((a, b) => a.price - b.price);
+            toysToReturn = toysToReturn.sort((a, b) => a.price - b.price);
         }
     }
-    return toyToReturn
+    console.log(toysToReturn);
+    
+    return Promise.resolve(toysToReturn)
 
 }

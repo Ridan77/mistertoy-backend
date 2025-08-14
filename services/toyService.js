@@ -8,8 +8,11 @@ export const toyService = {
     getById,
     remove,
     save,
+    getAllLabels
 }
 
+const labels = ['On wheels', 'Box game', 'Art', 'Baby', 'Doll', 'Puzzle',
+    'Outdoor', 'Battery Powered']
 
 function query(filterBy = {}) {
     let toysToReturn = toys
@@ -82,7 +85,6 @@ function save(toyToSave, loggedinUser) {
     } else {
         toyToSave._id = makeId()
         toyToSave.createdAt = Date.now()
-        toyToSave.labels = getLabels()
         toys.unshift(toyToSave)
     }
     return _saveToysToFile().then(() => toyToSave)
@@ -116,8 +118,6 @@ function _saveToysToFile() {
 
 function getLabels() {
     const nums = getRandomThree()
-    const labels = ['On wheels', 'Box game', 'Art', 'Baby', 'Doll', 'Puzzle',
-        'Outdoor', 'Battery Powered']
     var lbls = []
     lbls.unshift(labels[nums[0]])
     lbls.unshift(labels[nums[1]])
@@ -133,4 +133,7 @@ function getRandomThree() {
         result.push(numbers.splice(randIndex, 1)[0])
     }
     return result
+}
+function getAllLabels() {
+ return Promise.resolve(labels) 
 }

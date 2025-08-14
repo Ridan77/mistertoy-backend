@@ -1,5 +1,15 @@
 [
     {
+        "name": "Bew Toy",
+        "price": 200,
+        "labels": [
+            "Baby"
+        ],
+        "inStock": true,
+        "_id": "nf6rr",
+        "createdAt": 1755184738215
+    },
+    {
         "name": "New Toy",
         "price": 300,
         "imgUrl": "src/assets/img/toy6.jpg",

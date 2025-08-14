@@ -83,8 +83,12 @@ app.post('/api/toy/', (req, res) => {
     const toyToSave = {
         name: req.body.name,
         price: +req.body.price,
-        imgUrl: req.body.imgUrl
+        imgUrl: req.body.imgUrl,
+        labels: req.body.labels,
+        inStock: req.body.inStock
+
     }
+
     toyService.save(toyToSave)
         .then(savedToy => res.send(savedToy))
         .catch(err => {
@@ -103,11 +107,11 @@ app.put('/api/toy/:toyId', (req, res) => {
         price: +req.body.price,
         imgUrl: req.body.imgUrl,
         labels: req.body.labels,
-        onStock: req.body.onStock
+        inStock: req.body.inStock
 
     }
-  console.log(toyToSave);
-  
+    console.log(toyToSave);
+
     toyService.save(toyToSave)
         .then(savedToy => res.send(savedToy))
         .catch(err => {
@@ -115,6 +119,8 @@ app.put('/api/toy/:toyId', (req, res) => {
             res.status(500).send('Cannot save toy')
         })
 })
+
+
 
 // Fallback route
 app.get('/*all', (req, res) => {

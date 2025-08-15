@@ -2,17 +2,19 @@ import fs from 'fs'
 import { makeId, readJsonFile, getRandomIntInclusive } from "./util.service.js";
 
 const toys = readJsonFile('data/toys.json')
+const LABELS = ['On wheels', 'Box game', 'Art', 'Baby', 'Doll', 'Puzzle',
+    'Outdoor', 'Battery Powered']
 
 export const toyService = {
     query,
     getById,
     remove,
     save,
-    getAllLabels
+    getAllLabels,
+    getDashboardData
+
 }
 
-const labels = ['On wheels', 'Box game', 'Art', 'Baby', 'Doll', 'Puzzle',
-    'Outdoor', 'Battery Powered']
 
 function query(filterBy = {}) {
     let toysToReturn = toys
@@ -67,8 +69,8 @@ function remove(toyId, loggedinUser) {
 
 function save(toyToSave, loggedinUser) {
     if (toyToSave._id) {
-        console.log(toyToSave.price===NaN);
-        
+        console.log(toyToSave.price === NaN);
+
         for (const key in toyToSave) {
             if (toyToSave[key] === undefined || Number.isNaN(toyToSave[key])) {
                 delete toyToSave[key];
@@ -117,7 +119,7 @@ function _saveToysToFile() {
 
 
 function getLabels() {
-    const nums = getRandomThree()
+    const nums = _getRandomThree()
     var lbls = []
     lbls.unshift(labels[nums[0]])
     lbls.unshift(labels[nums[1]])
@@ -125,7 +127,7 @@ function getLabels() {
     return lbls
 }
 
-function getRandomThree() {
+function _getRandomThree() {
     const numbers = [0, 1, 2, 3, 4, 5, 6, 7]
     const result = []
     for (let i = 0; i < 3; i++) {
@@ -135,5 +137,35 @@ function getRandomThree() {
     return result
 }
 function getAllLabels() {
- return Promise.resolve(labels) 
+    return Promise.resolve(labels)
+}
+
+function getDashboardData() {
+    const pricePerLabel = LABELS.map((label) => {
+        const totalPrice = toys.reduce((acc, toy) => {
+            if (toy.labels.includes(label)) {
+                return acc + toy.price;
+            }
+            return acc;
+        }, 0);
+
+        const totalOccurrence = toys.reduce((acc, toy) => {
+            if (toy.labels.includes(label)) {
+                return acc + 1;
+            }
+            return acc;
+        }, 0);
+
+        return totalOccurrence > 0 ? totalPrice / totalOccurrence : 0;
+    });
+
+    const onStockPerLabel = LABELS.map((label) => {
+        return toys.reduce((acc, toy) => {
+            if (toy.inStock && toy.labels.includes(label)) {
+                return acc + 1
+            }
+            return acc
+        }, 0);
+    });
+    return Promise.resolve({ LABELS, pricePerLabel, onStockPerLabel })
 }

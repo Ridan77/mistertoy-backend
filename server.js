@@ -120,7 +120,17 @@ app.put('/api/toy/:toyId', (req, res) => {
         })
 })
 
-
+// Get Dashboard data
+app.get('/api/dashboard', (req, res) => {
+    console.log('in endpoint');
+    
+    toyService.getDashboardData()
+        .then(data => { res.send(data) })
+        .catch(err => {
+            loggerService.error('Cannot get dashboard', err)
+            res.status(500).send('Cannot load dashboard')
+        })
+})
 
 // Fallback route
 app.get('/*all', (req, res) => {

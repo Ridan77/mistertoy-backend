@@ -1,0 +1,25 @@
+20.8.2025, 12:59:42 - INFO - server.js loaded...
+20.8.2025, 12:59:43 - INFO - Server listening on port http://127.0.0.1:3030/
+20.8.2025, 13:02:53 - INFO - server.js loaded...
+20.8.2025, 13:02:53 - INFO - Server listening on port http://127.0.0.1:3030/
+20.8.2025, 13:03:21 - INFO - Req was made | /
+20.8.2025, 13:03:22 - INFO - Req was made | /
+20.8.2025, 13:04:00 - DEBUG - auth.service - login with username: admin
+20.8.2025, 13:04:00 - ERROR - Failed to Login Error: Invalid username or password
+20.8.2025, 13:04:10 - DEBUG - auth.service - login with username: ridan
+20.8.2025, 13:04:10 - INFO - User login:  | {"_id":"68a3540474da410ce68e7fe8","username":"ridan","fullname":"Dan Ribak","score":0,"isAdmin":true}
+20.8.2025, 13:04:15 - INFO - Req was made | /
+20.8.2025, 13:04:23 - INFO - Req was made | /
+20.8.2025, 13:04:23 - INFO - Req was made | /
+20.8.2025, 13:04:30 - INFO - Req was made | /
+20.8.2025, 13:04:31 - INFO - Req was made | /
+20.8.2025, 13:04:38 - INFO - Req was made | /
+20.8.2025, 13:04:40 - INFO - Req was made | /
+20.8.2025, 13:06:15 - INFO - server.js loaded...
+20.8.2025, 13:06:15 - INFO - Server listening on port http://127.0.0.1:3030/
+20.8.2025, 13:06:27 - INFO - server.js loaded...
+20.8.2025, 13:06:27 - INFO - Server listening on port http://127.0.0.1:3030/
+20.8.2025, 13:06:57 - INFO - server.js loaded...
+20.8.2025, 13:06:57 - INFO - Server listening on port http://127.0.0.1:3030/
+20.8.2025, 13:07:18 - INFO - server.js loaded...
+20.8.2025, 13:07:18 - INFO - Server listening on port http://127.0.0.1:3030/

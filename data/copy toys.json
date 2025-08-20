@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "d5aPC3",
+    "name": "A Toy",
+    "imgUrl": "src/assets/img/toy5.jpg",
+    "price": 220,
+    "labels": [
+      "On wheels",
+      "Art",
+      "Box game"
+    ],
+    "createdAt": 1755000587659,
+    "inStock": false
+  },
+  {
+    "_id": "Ea7oay",
+    "name": "Toy burn as generally ",
+    "imgUrl": "src/assets/img/toy4.jpg",
+    "price": 93,
+    "labels": [
+      "Doll",
+      "Puzzle",
+      "Battery Powered"
+    ],
+    "createdAt": 1755000587659,
+    "inStock": false
+  },
+  {
+    "_id": "BrgyRZ",
+    "name": "Wonderfull Toy tuned ",
+    "imgUrl": "src/assets/img/toy3.jpg",
+    "price": 59,
+    "labels": [
+      "Battery Powered",
+      "Doll",
+      "Baby"
+    ],
+    "createdAt": 1755000587659,
+    "inStock": true
+  },
+  {
+    "_id": "lFNWtI",
+    "name": "burn Toy . ",
+    "imgUrl": "src/assets/img/toy2.jpg",
+    "price": 258,
+    "labels": [
+      "Outdoor",
+      "Puzzle",
+      "On wheels"
+    ],
+    "createdAt": 1755000587659,
+    "inStock": true
+  },
+  {
+    "_id": "la4Vve",
+    "name": "What a Toy ",
+    "imgUrl": "src/assets/img/toy1.jpg",
+    "price": 293,
+    "labels": [
+      "On wheels",
+      "Outdoor",
+      "Art"
+    ],
+    "createdAt": 1755000587659,
+    "inStock": true
+  }
+]

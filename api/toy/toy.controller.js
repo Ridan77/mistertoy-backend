@@ -109,7 +109,6 @@ export async function removeToyMsg(req, res) {
 
 export async function getData(req, res) {
     try {
-        console.log('in dash');
         
         const data = await toyService.getDashboard()
         res.send(data)

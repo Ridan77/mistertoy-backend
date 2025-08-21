@@ -1,7 +1,11 @@
 import express from 'express'
+import http from 'http'
+
 import path from 'path'
 import cookieParser from 'cookie-parser'
 import { setupAsyncLocalStorage } from './middlewares/setupAls.middleware.js'
+import { setupSocketAPI } from './services/socket.service.js'
+
 
 
 import { loggerService } from './services/logger.service.js'
@@ -10,6 +14,7 @@ loggerService.info('server.js loaded...')
 import cors from 'cors'
 
 const app = express()
+const server = http.createServer(app)
 //* Express Config:
 
 app.use(express.static('public'))
@@ -31,6 +36,8 @@ if (process.env.NODE_ENV === 'production') {
     app.use(cors(corsOptions))
 }
 app.all('*all', setupAsyncLocalStorage)
+setupSocketAPI(server)
+
 
 import { authRoutes } from './api/auth/auth.routes.js'
 import { toyRoutes } from './api/toy/toy.routes.js'
@@ -51,8 +58,9 @@ app.get('/*all', (req, res) => {
 
 
 const PORT = process.env.PORT || 3030
-app.listen(PORT, () => {
+server.listen(PORT, () => {
     console.log(`Server listening on port http://127.0.0.1:${PORT}/`)
     loggerService.info(`Server listening on port http://127.0.0.1:${PORT}/`)
 }
 )
+

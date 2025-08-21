@@ -11,7 +11,6 @@ async function query(filterBy = {}) {
     try {
         const criteria = _buildCriteria(filterBy)
         const collection = await dbService.getCollection(collectionName)
-console.log('filterby, criteria',filterBy,criteria);
 
         // var reviews = await collection.find(criteria).toArray()
         var reviews = await collection.aggregate([
@@ -50,7 +49,6 @@ console.log('filterby, criteria',filterBy,criteria);
             }
             ]).toArray()
 
-            console.log(reviews);
         return reviews
     } catch (err) {
         logger.error('cannot get reviews', err)

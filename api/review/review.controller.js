@@ -33,7 +33,6 @@ export async function deleteReview(req, res) {
 }
 
 export async function addReview(req, res) {
-	console.log(req.body);
 	var { loggedinUser } = req
 		try {
 		var review = req.body

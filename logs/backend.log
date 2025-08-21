@@ -53,3 +53,576 @@
 20.8.2025, 15:53:57 - INFO - Server listening on port http://127.0.0.1:3030/
 20.8.2025, 15:53:59 - INFO - server.js loaded...
 20.8.2025, 15:53:59 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 13:31:19 - INFO - server.js loaded...
+21.8.2025, 13:31:19 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 13:31:28 - INFO - server.js loaded...
+21.8.2025, 13:31:28 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 13:45:53 - INFO - Req was made | /
+21.8.2025, 13:45:53 - INFO - Req was made | /
+21.8.2025, 13:46:08 - INFO - Req was made | /
+21.8.2025, 13:46:47 - INFO - Req was made | /
+21.8.2025, 13:50:14 - INFO - Req was made | /
+21.8.2025, 13:57:34 - INFO - Req was made | /
+21.8.2025, 13:57:49 - INFO - Req was made | /
+21.8.2025, 14:01:11 - INFO - Req was made | /
+21.8.2025, 14:11:14 - INFO - server.js loaded...
+21.8.2025, 14:11:14 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:11:14 - INFO - New connected socket [id: 0EQ95YsYAyypRuN9AAAB]
+21.8.2025, 14:12:30 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 14:12:33 - INFO - New connected socket [id: y1TJV-BNc7-eD2J-AAAD]
+21.8.2025, 14:12:34 - INFO - Req was made | /
+21.8.2025, 14:14:04 - INFO - server.js loaded...
+21.8.2025, 14:14:04 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:14:07 - INFO - New connected socket [id: a1fXTb_mSsPVTuPzAAAB]
+21.8.2025, 14:14:14 - INFO - server.js loaded...
+21.8.2025, 14:14:14 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:14:16 - INFO - New connected socket [id: V6xJwQfwbEkA38uBAAAB]
+21.8.2025, 14:15:22 - INFO - server.js loaded...
+21.8.2025, 14:15:22 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:15:22 - INFO - New connected socket [id: i0ZzFCfFq9RR62lVAAAB]
+21.8.2025, 14:15:28 - INFO - New chat msg from socket [id: i0ZzFCfFq9RR62lVAAAB], emitting to topic undefined
+21.8.2025, 14:23:57 - INFO - Req was made | /
+21.8.2025, 14:26:14 - INFO - server.js loaded...
+21.8.2025, 14:26:14 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:26:15 - INFO - New connected socket [id: 0BZpz8vS8IyXNze7AAAB]
+21.8.2025, 14:26:17 - INFO - server.js loaded...
+21.8.2025, 14:26:17 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:26:19 - INFO - server.js loaded...
+21.8.2025, 14:26:19 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:26:20 - INFO - New connected socket [id: sM8UNtrzgHx-h7ayAAAB]
+21.8.2025, 14:26:30 - INFO - server.js loaded...
+21.8.2025, 14:26:30 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:26:30 - INFO - New connected socket [id: joDrQofyshuLSwzVAAAB]
+21.8.2025, 14:26:35 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:26:35 - INFO - server.js loaded...
+21.8.2025, 14:26:36 - INFO - New connected socket [id: h0DNwC6kPGcwkw02AAAB]
+21.8.2025, 14:26:39 - INFO - server.js loaded...
+21.8.2025, 14:26:39 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:26:39 - INFO - New connected socket [id: Wg8yDeWe2dlF5vXIAAAB]
+21.8.2025, 14:26:49 - INFO - server.js loaded...
+21.8.2025, 14:26:49 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:26:50 - INFO - New connected socket [id: 95Gar7uYNi1qrSSMAAAB]
+21.8.2025, 14:26:53 - INFO - server.js loaded...
+21.8.2025, 14:26:53 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:26:54 - INFO - New connected socket [id: iLapFLPYkmrx83-NAAAB]
+21.8.2025, 14:26:56 - INFO - server.js loaded...
+21.8.2025, 14:26:56 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:26:58 - INFO - New connected socket [id: GUQXm6vM4MA_MKXcAAAB]
+21.8.2025, 14:27:07 - INFO - server.js loaded...
+21.8.2025, 14:27:07 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:27:09 - INFO - New connected socket [id: EwZoap2wV-DpLYNrAAAB]
+21.8.2025, 14:27:16 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 14:27:17 - INFO - New connected socket [id: cMqftBDY3Vz9OxMnAAAD]
+21.8.2025, 14:27:17 - INFO - Req was made | /
+21.8.2025, 14:27:48 - INFO - server.js loaded...
+21.8.2025, 14:27:48 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:27:48 - INFO - New connected socket [id: G7UjDm_W2ngLm5BlAAAB]
+21.8.2025, 14:28:02 - INFO - server.js loaded...
+21.8.2025, 14:28:02 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:28:03 - INFO - New connected socket [id: GR8kyFbI_Z2Dod2BAAAB]
+21.8.2025, 14:28:10 - INFO - server.js loaded...
+21.8.2025, 14:28:10 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:28:10 - INFO - New connected socket [id: 1vbycNsRNWysVP58AAAB]
+21.8.2025, 14:28:26 - INFO - server.js loaded...
+21.8.2025, 14:28:26 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:28:27 - INFO - New connected socket [id: IAMt-11Ry6YAL88xAAAB]
+21.8.2025, 14:29:10 - INFO - Req was made | /
+21.8.2025, 14:31:11 - INFO - server.js loaded...
+21.8.2025, 14:31:11 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:31:12 - INFO - New connected socket [id: FJSXr3kP1Ny9ZkMrAAAB]
+21.8.2025, 14:31:26 - INFO - New chat msg from socket [id: FJSXr3kP1Ny9ZkMrAAAB], emitting to topic undefined
+21.8.2025, 14:31:38 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 14:31:38 - INFO - New connected socket [id: uJsU8osPA9fux6sKAAAD]
+21.8.2025, 14:31:39 - INFO - Req was made | /
+21.8.2025, 14:31:55 - INFO - New chat msg from socket [id: uJsU8osPA9fux6sKAAAD], emitting to topic 333
+21.8.2025, 14:33:22 - INFO - New chat msg from socket [id: uJsU8osPA9fux6sKAAAD], emitting to topic 333
+21.8.2025, 14:38:50 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 14:38:51 - INFO - New connected socket [id: I_QSOmJNVfGMfuSrAAAF]
+21.8.2025, 14:38:51 - INFO - Req was made | /
+21.8.2025, 14:39:13 - INFO - Req was made | /
+21.8.2025, 14:39:20 - INFO - New chat msg from socket [id: I_QSOmJNVfGMfuSrAAAF], emitting to topic 333
+21.8.2025, 14:40:39 - INFO - Socket is leaving topic 333 [id: I_QSOmJNVfGMfuSrAAAF]
+21.8.2025, 14:42:15 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 14:43:05 - INFO - New connected socket [id: 7pdgv2G2asHajoFJAAAH]
+21.8.2025, 14:43:05 - INFO - Req was made | /
+21.8.2025, 14:45:20 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 14:45:20 - INFO - New connected socket [id: _IgiXC0c9K-lIW_ZAAAJ]
+21.8.2025, 14:45:21 - INFO - Req was made | /
+21.8.2025, 14:45:37 - INFO - Req was made | /
+21.8.2025, 14:45:42 - INFO - New chat msg from socket [id: _IgiXC0c9K-lIW_ZAAAJ], emitting to topic 68a32041e84c2c1e50674612
+21.8.2025, 14:46:25 - INFO - Req was made | /
+21.8.2025, 14:47:01 - INFO - New chat msg from socket [id: _IgiXC0c9K-lIW_ZAAAJ], emitting to topic 68a32041e84c2c1e50674612
+21.8.2025, 14:47:56 - INFO - Req was made | /
+21.8.2025, 14:47:59 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 14:47:59 - INFO - New connected socket [id: 2d1g7o_C2h5oBx1QAAAL]
+21.8.2025, 14:47:59 - INFO - Req was made | /
+21.8.2025, 14:48:04 - INFO - New chat msg from socket [id: 2d1g7o_C2h5oBx1QAAAL], emitting to topic 68a32041e84c2c1e50674612
+21.8.2025, 14:48:46 - INFO - New chat msg from socket [id: 2d1g7o_C2h5oBx1QAAAL], emitting to topic 68a32041e84c2c1e50674612
+21.8.2025, 14:48:50 - INFO - New chat msg from socket [id: 2d1g7o_C2h5oBx1QAAAL], emitting to topic 68a32041e84c2c1e50674612
+21.8.2025, 14:49:11 - INFO - New chat msg from socket [id: 2d1g7o_C2h5oBx1QAAAL], emitting to topic 68a32041e84c2c1e50674612
+21.8.2025, 14:49:13 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 14:49:14 - INFO - New connected socket [id: zMN8DnElCJMJgH-MAAAN]
+21.8.2025, 14:49:14 - INFO - Req was made | /
+21.8.2025, 14:49:17 - INFO - New chat msg from socket [id: zMN8DnElCJMJgH-MAAAN], emitting to topic 68a32041e84c2c1e50674612
+21.8.2025, 14:49:19 - INFO - New chat msg from socket [id: zMN8DnElCJMJgH-MAAAN], emitting to topic 68a32041e84c2c1e50674612
+21.8.2025, 14:49:21 - INFO - New chat msg from socket [id: zMN8DnElCJMJgH-MAAAN], emitting to topic 68a32041e84c2c1e50674612
+21.8.2025, 14:51:49 - INFO - Req was made | /
+21.8.2025, 14:52:33 - INFO - New chat msg from socket [id: zMN8DnElCJMJgH-MAAAN], emitting to topic 68a32041e84c2c1e50674612
+21.8.2025, 14:52:35 - INFO - New chat msg from socket [id: zMN8DnElCJMJgH-MAAAN], emitting to topic 68a32041e84c2c1e50674612
+21.8.2025, 14:53:17 - INFO - server.js loaded...
+21.8.2025, 14:53:17 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:53:18 - INFO - New connected socket [id: xrTr-eaXuil4hSDjAAAB]
+21.8.2025, 14:53:29 - INFO - New chat msg from socket [id: xrTr-eaXuil4hSDjAAAB], emitting to topic undefined
+21.8.2025, 14:53:37 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 14:54:20 - INFO - server.js loaded...
+21.8.2025, 14:54:20 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 14:54:24 - INFO - Req was made | /
+21.8.2025, 14:54:24 - INFO - New connected socket [id: rHjBsuvXBCtqrMhDAAAB]
+21.8.2025, 14:54:24 - INFO - Req was made | /
+21.8.2025, 14:54:27 - INFO - Req was made | /
+21.8.2025, 14:54:36 - INFO - New chat msg from socket [id: rHjBsuvXBCtqrMhDAAAB], emitting to topic 68a32041e84c2c1e5067460d
+21.8.2025, 15:00:42 - DEBUG - auth.service - login with username: ridan
+21.8.2025, 15:00:42 - INFO - User login:  | {"_id":"68a3540474da410ce68e7fe8","username":"ridan","fullname":"Dan Ribak","score":0,"isAdmin":true}
+21.8.2025, 15:00:48 - INFO - New chat msg from socket [id: rHjBsuvXBCtqrMhDAAAB], emitting to topic 68a32041e84c2c1e5067460d
+21.8.2025, 15:01:12 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 15:01:13 - INFO - New connected socket [id: 7WV9ucRJA0ca3mkAAAAD]
+21.8.2025, 15:01:13 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: 7WV9ucRJA0ca3mkAAAAD]
+21.8.2025, 15:01:13 - INFO - Req was made | /
+21.8.2025, 15:01:36 - INFO - New chat msg from socket [id: 7WV9ucRJA0ca3mkAAAAD], emitting to topic 68a32041e84c2c1e5067460d
+21.8.2025, 15:01:57 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 15:01:57 - INFO - New connected socket [id: J1i7z6r5rX85MbKvAAAF]
+21.8.2025, 15:01:58 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: J1i7z6r5rX85MbKvAAAF]
+21.8.2025, 15:01:58 - INFO - Req was made | /
+21.8.2025, 15:02:20 - INFO - Req was made | /
+21.8.2025, 15:02:21 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 15:02:22 - INFO - New connected socket [id: CzddjFnWUwh8SO-BAAAH]
+21.8.2025, 15:02:22 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: CzddjFnWUwh8SO-BAAAH]
+21.8.2025, 15:02:22 - INFO - Req was made | /
+21.8.2025, 15:02:27 - INFO - New chat msg from socket [id: CzddjFnWUwh8SO-BAAAH], emitting to topic 68a32041e84c2c1e5067460d
+21.8.2025, 15:03:01 - INFO - New chat msg from socket [id: CzddjFnWUwh8SO-BAAAH], emitting to topic 68a32041e84c2c1e5067460d
+21.8.2025, 15:03:33 - INFO - New chat msg from socket [id: CzddjFnWUwh8SO-BAAAH], emitting to topic 68a32041e84c2c1e5067460d
+21.8.2025, 15:03:36 - INFO - New chat msg from socket [id: CzddjFnWUwh8SO-BAAAH], emitting to topic 68a32041e84c2c1e5067460d
+21.8.2025, 15:04:23 - INFO - server.js loaded...
+21.8.2025, 15:04:23 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:04:23 - INFO - New connected socket [id: ngCUyBPP66wPmcvbAAAB]
+21.8.2025, 15:05:52 - INFO - server.js loaded...
+21.8.2025, 15:05:52 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:05:54 - INFO - New connected socket [id: c4nxEh0lepPdVvXaAAAB]
+21.8.2025, 15:05:56 - INFO - server.js loaded...
+21.8.2025, 15:05:56 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:05:57 - INFO - New connected socket [id: U1M2DeDiUcVlcLHfAAAB]
+21.8.2025, 15:09:17 - INFO - server.js loaded...
+21.8.2025, 15:09:17 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:09:18 - INFO - New connected socket [id: R7djxJ4mQpN7Mg2hAAAB]
+21.8.2025, 15:09:19 - INFO - server.js loaded...
+21.8.2025, 15:09:19 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:09:20 - INFO - New connected socket [id: aMa57fjS6_VibK5PAAAB]
+21.8.2025, 15:09:21 - INFO - server.js loaded...
+21.8.2025, 15:09:21 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:09:23 - INFO - server.js loaded...
+21.8.2025, 15:09:23 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:09:24 - INFO - New connected socket [id: 8fZHY6BNdInu8IeAAAAB]
+21.8.2025, 15:09:26 - INFO - server.js loaded...
+21.8.2025, 15:09:26 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:09:27 - INFO - New connected socket [id: 4C5ydxjPzUsoqJGPAAAB]
+21.8.2025, 15:09:30 - INFO - server.js loaded...
+21.8.2025, 15:09:30 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:09:31 - INFO - New connected socket [id: tYU430oepEpqY5U6AAAB]
+21.8.2025, 15:09:54 - INFO - server.js loaded...
+21.8.2025, 15:09:54 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:09:56 - INFO - server.js loaded...
+21.8.2025, 15:09:56 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:09:59 - INFO - server.js loaded...
+21.8.2025, 15:09:59 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:09:59 - INFO - New connected socket [id: KEOZwuBHuQFRfBPFAAAB]
+21.8.2025, 15:10:25 - INFO - server.js loaded...
+21.8.2025, 15:10:25 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:10:26 - INFO - server.js loaded...
+21.8.2025, 15:10:26 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:10:26 - INFO - New connected socket [id: k86kkwklSCd23WzlAAAB]
+21.8.2025, 15:11:15 - INFO - server.js loaded...
+21.8.2025, 15:11:16 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:11:20 - INFO - New connected socket [id: TJlbGWd666BC7jorAAAB]
+21.8.2025, 15:12:32 - INFO - server.js loaded...
+21.8.2025, 15:12:32 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:12:33 - INFO - New connected socket [id: RlQ-T-FlSpMRcvaFAAAB]
+21.8.2025, 15:12:50 - INFO - server.js loaded...
+21.8.2025, 15:12:50 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:12:50 - INFO - New connected socket [id: 6B4WwAIi3_CmQFGNAAAB]
+21.8.2025, 15:13:31 - INFO - server.js loaded...
+21.8.2025, 15:13:31 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:13:32 - INFO - New connected socket [id: I5E6IWt8Dw0mLXvJAAAB]
+21.8.2025, 15:13:48 - INFO - server.js loaded...
+21.8.2025, 15:13:48 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:13:49 - INFO - New connected socket [id: hgbj6JSC5r0U0wwcAAAB]
+21.8.2025, 15:13:50 - INFO - server.js loaded...
+21.8.2025, 15:13:50 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:13:50 - INFO - New connected socket [id: s5bNVdEq9OFlnhPmAAAB]
+21.8.2025, 15:13:52 - INFO - server.js loaded...
+21.8.2025, 15:13:52 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:13:53 - INFO - New connected socket [id: WOOq5emrbErfh8dMAAAB]
+21.8.2025, 15:15:10 - INFO - server.js loaded...
+21.8.2025, 15:15:10 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:15:10 - INFO - New connected socket [id: cPY1Qk_NuU8MPIrAAAAB]
+21.8.2025, 15:15:25 - INFO - server.js loaded...
+21.8.2025, 15:15:25 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:15:25 - INFO - New connected socket [id: TMfFW6qcpMzmoQdLAAAB]
+21.8.2025, 15:15:36 - INFO - server.js loaded...
+21.8.2025, 15:15:36 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:15:36 - INFO - New connected socket [id: 1J9xk3dh1qFqDfvNAAAB]
+21.8.2025, 15:19:36 - INFO - server.js loaded...
+21.8.2025, 15:19:36 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:19:36 - INFO - New connected socket [id: xcKMihX72kiBeNuzAAAB]
+21.8.2025, 15:20:55 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 15:20:55 - INFO - New connected socket [id: hZ_JVgJY9BTenv39AAAD]
+21.8.2025, 15:20:56 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: hZ_JVgJY9BTenv39AAAD]
+21.8.2025, 15:20:56 - INFO - Req was made | /
+21.8.2025, 15:20:57 - INFO - Req was made | /
+21.8.2025, 15:20:57 - INFO - Req was made | /
+21.8.2025, 15:21:13 - INFO - Req was made | /
+21.8.2025, 15:21:13 - INFO - Req was made | /
+21.8.2025, 15:21:58 - INFO - Req was made | /
+21.8.2025, 15:22:01 - INFO - New chat msg from socket [id: hZ_JVgJY9BTenv39AAAD], emitting to topic 68a70f398d15d7f04d8c9eea
+21.8.2025, 15:25:09 - INFO - server.js loaded...
+21.8.2025, 15:25:09 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:25:12 - INFO - New connected socket [id: XJnYK4sn5klmWwyBAAAB]
+21.8.2025, 15:25:21 - INFO - server.js loaded...
+21.8.2025, 15:25:21 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:25:21 - INFO - New connected socket [id: FF_37JBFZjs2V6-PAAAB]
+21.8.2025, 15:25:25 - INFO - server.js loaded...
+21.8.2025, 15:25:25 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:25:26 - INFO - New connected socket [id: 7R_RE7pTV-WXPtS1AAAB]
+21.8.2025, 15:25:29 - INFO - server.js loaded...
+21.8.2025, 15:25:29 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:25:30 - INFO - New connected socket [id: THm4iDPkYYQzwDI5AAAB]
+21.8.2025, 15:25:31 - INFO - server.js loaded...
+21.8.2025, 15:25:31 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:25:32 - INFO - New connected socket [id: FUzxTVgTAi-VohCWAAAB]
+21.8.2025, 15:27:49 - INFO - server.js loaded...
+21.8.2025, 15:27:49 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:27:52 - INFO - New connected socket [id: cyQ02g40l0UoMcLGAAAB]
+21.8.2025, 15:28:04 - INFO - server.js loaded...
+21.8.2025, 15:28:04 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:28:05 - INFO - New connected socket [id: RJHxTPMwFKrfCPhGAAAB]
+21.8.2025, 15:28:06 - INFO - server.js loaded...
+21.8.2025, 15:28:07 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:28:08 - INFO - New connected socket [id: oW7aLzC_UZouRBY5AAAB]
+21.8.2025, 15:28:13 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 15:28:13 - INFO - New connected socket [id: RbQVyxZf2mLcARH3AAAD]
+21.8.2025, 15:28:14 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: RbQVyxZf2mLcARH3AAAD]
+21.8.2025, 15:28:14 - INFO - Req was made | /
+21.8.2025, 15:28:19 - INFO - New chat msg from socket [id: RbQVyxZf2mLcARH3AAAD], emitting to topic 68a70f398d15d7f04d8c9eea
+21.8.2025, 15:29:04 - INFO - server.js loaded...
+21.8.2025, 15:29:04 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:29:08 - INFO - New connected socket [id: we-Lrb-_EmlB3qmQAAAB]
+21.8.2025, 15:29:08 - INFO - New chat msg from socket [id: we-Lrb-_EmlB3qmQAAAB], emitting to topic 68a70f398d15d7f04d8c9eea
+21.8.2025, 15:31:00 - INFO - server.js loaded...
+21.8.2025, 15:31:00 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:31:03 - INFO - New connected socket [id: RMOdY_LuxHNJCylGAAAB]
+21.8.2025, 15:31:03 - INFO - New chat msg from socket [id: RMOdY_LuxHNJCylGAAAB], emitting to topic undefined
+21.8.2025, 15:31:07 - INFO - server.js loaded...
+21.8.2025, 15:31:07 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:31:08 - INFO - New connected socket [id: TxzV8ApvAuHgikwbAAAB]
+21.8.2025, 15:31:13 - INFO - server.js loaded...
+21.8.2025, 15:31:13 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:31:13 - INFO - New connected socket [id: 6zANp_ZGkxqSV69YAAAB]
+21.8.2025, 15:31:26 - INFO - server.js loaded...
+21.8.2025, 15:31:26 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:31:27 - INFO - New connected socket [id: PIwNY3y8Qajda7eoAAAB]
+21.8.2025, 15:31:28 - INFO - New chat msg from socket [id: PIwNY3y8Qajda7eoAAAB], emitting to topic undefined
+21.8.2025, 15:32:14 - INFO - server.js loaded...
+21.8.2025, 15:32:14 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:32:16 - INFO - New connected socket [id: Ty4MWLILduaUW9WCAAAB]
+21.8.2025, 15:32:16 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 15:32:17 - INFO - New connected socket [id: qZKVSnTkY1bjKsyVAAAD]
+21.8.2025, 15:32:17 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: qZKVSnTkY1bjKsyVAAAD]
+21.8.2025, 15:32:17 - INFO - Req was made | /
+21.8.2025, 15:32:22 - INFO - New chat msg from socket [id: qZKVSnTkY1bjKsyVAAAD], emitting to topic 68a70f398d15d7f04d8c9eea
+21.8.2025, 15:34:28 - INFO - server.js loaded...
+21.8.2025, 15:34:28 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:34:31 - INFO - Req was made | /
+21.8.2025, 15:34:31 - INFO - Req was made | /
+21.8.2025, 15:34:33 - INFO - New connected socket [id: ISId9BC7lDt25PnbAAAB]
+21.8.2025, 15:34:33 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: ISId9BC7lDt25PnbAAAB]
+21.8.2025, 15:34:39 - INFO - Req was made | /
+21.8.2025, 15:34:39 - INFO - Req was made | /
+21.8.2025, 15:35:36 - INFO - server.js loaded...
+21.8.2025, 15:35:36 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:35:37 - INFO - New connected socket [id: rtnunIbhXgOPeh8rAAAB]
+21.8.2025, 15:36:32 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 15:36:32 - INFO - New connected socket [id: nVtDaMC04bl27Y49AAAD]
+21.8.2025, 15:36:32 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: nVtDaMC04bl27Y49AAAD]
+21.8.2025, 15:36:32 - INFO - Req was made | /
+21.8.2025, 15:36:33 - INFO - Req was made | /
+21.8.2025, 15:36:39 - INFO - Req was made | /
+21.8.2025, 15:36:42 - INFO - New chat msg from socket [id: nVtDaMC04bl27Y49AAAD], emitting to topic 68a70f398d15d7f04d8c9eea
+21.8.2025, 15:37:14 - INFO - server.js loaded...
+21.8.2025, 15:37:14 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:37:15 - INFO - server.js loaded...
+21.8.2025, 15:37:15 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:37:17 - INFO - New connected socket [id: YzDyLhNZuAyRAmzVAAAB]
+21.8.2025, 15:37:22 - INFO - server.js loaded...
+21.8.2025, 15:37:22 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:37:22 - INFO - New connected socket [id: 52e2ezbC_DVtLSzCAAAB]
+21.8.2025, 15:37:24 - INFO - server.js loaded...
+21.8.2025, 15:37:24 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:37:24 - INFO - New connected socket [id: URQN3ek7o3e7JOkDAAAB]
+21.8.2025, 15:37:28 - INFO - server.js loaded...
+21.8.2025, 15:37:28 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:37:28 - INFO - New connected socket [id: OYKttKyaDmwqmz3FAAAB]
+21.8.2025, 15:37:32 - INFO - server.js loaded...
+21.8.2025, 15:37:32 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:37:32 - INFO - New connected socket [id: MMrzD8huQKhz0093AAAB]
+21.8.2025, 15:37:33 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 15:37:34 - INFO - New connected socket [id: MVh7Ukobm7qGdk4AAAAD]
+21.8.2025, 15:37:34 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: MVh7Ukobm7qGdk4AAAAD]
+21.8.2025, 15:37:34 - INFO - Req was made | /
+21.8.2025, 15:37:39 - INFO - New chat msg from socket [id: MVh7Ukobm7qGdk4AAAAD], emitting to topic 68a70f398d15d7f04d8c9eea
+21.8.2025, 15:40:26 - INFO - server.js loaded...
+21.8.2025, 15:40:26 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:40:28 - INFO - New connected socket [id: N2AkbvMR4d6zmvS7AAAB]
+21.8.2025, 15:40:30 - INFO - server.js loaded...
+21.8.2025, 15:40:30 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:40:31 - INFO - New connected socket [id: -W8LXG868hqOeor6AAAB]
+21.8.2025, 15:40:32 - INFO - server.js loaded...
+21.8.2025, 15:40:32 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:40:34 - INFO - New connected socket [id: 5P8vj8uJa-uumbCdAAAB]
+21.8.2025, 15:40:37 - INFO - server.js loaded...
+21.8.2025, 15:40:37 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:40:37 - INFO - New connected socket [id: xYYf0DGUy2J9nBRxAAAB]
+21.8.2025, 15:40:40 - INFO - server.js loaded...
+21.8.2025, 15:40:40 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:40:41 - INFO - New connected socket [id: LSG9FNNkEvGhF4A4AAAB]
+21.8.2025, 15:40:42 - INFO - server.js loaded...
+21.8.2025, 15:40:42 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:40:43 - INFO - New connected socket [id: c7XYvf8UnXpDxAk5AAAB]
+21.8.2025, 15:40:45 - INFO - server.js loaded...
+21.8.2025, 15:40:45 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:40:46 - INFO - New connected socket [id: qB5t0WtoAl-xxQl0AAAB]
+21.8.2025, 15:40:49 - INFO - server.js loaded...
+21.8.2025, 15:40:49 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:40:49 - INFO - New connected socket [id: F0k9Svn3zKGRcom1AAAB]
+21.8.2025, 15:40:57 - INFO - server.js loaded...
+21.8.2025, 15:40:57 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:40:58 - INFO - New connected socket [id: tB0scm8QZJNeDMisAAAB]
+21.8.2025, 15:40:59 - INFO - server.js loaded...
+21.8.2025, 15:40:59 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:41:00 - INFO - New connected socket [id: U3dm10E6Ij6xV6kAAAAB]
+21.8.2025, 15:41:38 - INFO - server.js loaded...
+21.8.2025, 15:41:38 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:41:40 - INFO - New connected socket [id: 8lvy59Qk3dAqFxV-AAAB]
+21.8.2025, 15:41:45 - INFO - server.js loaded...
+21.8.2025, 15:41:45 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:41:46 - INFO - New connected socket [id: NJxrB0hteQzLMODiAAAB]
+21.8.2025, 15:41:47 - INFO - server.js loaded...
+21.8.2025, 15:41:47 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:41:48 - INFO - New connected socket [id: dInpHo3auk9xN25iAAAB]
+21.8.2025, 15:41:54 - INFO - server.js loaded...
+21.8.2025, 15:41:54 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:41:55 - INFO - New connected socket [id: mdKvn9sesz8bLmdEAAAB]
+21.8.2025, 15:42:14 - INFO - server.js loaded...
+21.8.2025, 15:42:14 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:42:14 - INFO - New connected socket [id: zGe-lljeCsq6HD2sAAAB]
+21.8.2025, 15:42:27 - INFO - server.js loaded...
+21.8.2025, 15:42:27 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:42:28 - INFO - New connected socket [id: 71-BLAuARtAWFxDtAAAB]
+21.8.2025, 15:42:51 - INFO - server.js loaded...
+21.8.2025, 15:42:51 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:42:53 - INFO - server.js loaded...
+21.8.2025, 15:42:53 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:42:53 - INFO - New connected socket [id: OuYh-JizG8SrWb3eAAAB]
+21.8.2025, 15:43:16 - INFO - server.js loaded...
+21.8.2025, 15:43:16 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:43:17 - INFO - New connected socket [id: 7mtqnROMyAe7NNg_AAAB]
+21.8.2025, 15:43:19 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 15:43:19 - INFO - New connected socket [id: AVspXcX4oJbsvohIAAAD]
+21.8.2025, 15:43:19 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: AVspXcX4oJbsvohIAAAD]
+21.8.2025, 15:43:20 - INFO - Req was made | /
+21.8.2025, 15:43:23 - INFO - New chat msg from socket [id: AVspXcX4oJbsvohIAAAD], emitting to topic 68a70f398d15d7f04d8c9eea
+21.8.2025, 15:46:51 - INFO - server.js loaded...
+21.8.2025, 15:46:51 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:46:51 - INFO - New connected socket [id: FIVCqO4fazHpNI2tAAAB]
+21.8.2025, 15:46:51 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: FIVCqO4fazHpNI2tAAAB]
+21.8.2025, 15:46:53 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 15:46:53 - INFO - New connected socket [id: wrhj3QK9bcarfYnrAAAD]
+21.8.2025, 15:46:54 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: wrhj3QK9bcarfYnrAAAD]
+21.8.2025, 15:46:54 - INFO - Req was made | /
+21.8.2025, 15:46:57 - INFO - New chat msg from socket [id: wrhj3QK9bcarfYnrAAAD], emitting to topic 68a70f398d15d7f04d8c9eea
+21.8.2025, 15:47:41 - INFO - server.js loaded...
+21.8.2025, 15:47:41 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:47:41 - INFO - New connected socket [id: Uy0sJKu6llbMBaM1AAAB]
+21.8.2025, 15:47:47 - INFO - server.js loaded...
+21.8.2025, 15:47:47 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:47:48 - INFO - New connected socket [id: 3w4Xb9WMcndCaR-2AAAB]
+21.8.2025, 15:47:50 - INFO - server.js loaded...
+21.8.2025, 15:47:50 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:47:50 - INFO - New connected socket [id: x7a-V-pjKoyE035tAAAB]
+21.8.2025, 15:47:54 - INFO - server.js loaded...
+21.8.2025, 15:47:54 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:47:54 - INFO - New connected socket [id: Tz_CRhUB2a5lpr5dAAAB]
+21.8.2025, 15:47:56 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 15:47:57 - INFO - New connected socket [id: T7ANFFUhK3TvZ9JWAAAD]
+21.8.2025, 15:47:57 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: T7ANFFUhK3TvZ9JWAAAD]
+21.8.2025, 15:47:57 - INFO - Req was made | /
+21.8.2025, 15:48:00 - INFO - New chat msg from socket [id: T7ANFFUhK3TvZ9JWAAAD], emitting to topic 68a70f398d15d7f04d8c9eea
+21.8.2025, 15:48:28 - INFO - server.js loaded...
+21.8.2025, 15:48:28 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:48:28 - INFO - New connected socket [id: xsREMF95vJ7taBxHAAAB]
+21.8.2025, 15:48:33 - INFO - server.js loaded...
+21.8.2025, 15:48:33 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:48:33 - INFO - New connected socket [id: QWeDocwX9kk-bER1AAAB]
+21.8.2025, 15:48:36 - INFO - server.js loaded...
+21.8.2025, 15:48:36 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:48:36 - INFO - New connected socket [id: g6g_O8cb1YLdg0JwAAAB]
+21.8.2025, 15:48:45 - INFO - server.js loaded...
+21.8.2025, 15:48:45 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:48:45 - INFO - New connected socket [id: JyP1cbQCCNTRJp6UAAAB]
+21.8.2025, 15:48:48 - INFO - Req was made | /
+21.8.2025, 15:48:48 - INFO - Req was made | /
+21.8.2025, 15:48:55 - INFO - Req was made | /
+21.8.2025, 15:48:55 - INFO - Req was made | /
+21.8.2025, 15:50:12 - INFO - server.js loaded...
+21.8.2025, 15:50:12 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:50:12 - INFO - New connected socket [id: k58ZrEqtoSL7is5jAAAB]
+21.8.2025, 15:50:14 - INFO - server.js loaded...
+21.8.2025, 15:50:14 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:50:15 - INFO - New connected socket [id: hngsyv8-TJErgj5SAAAB]
+21.8.2025, 15:50:19 - INFO - server.js loaded...
+21.8.2025, 15:50:19 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:50:19 - INFO - New connected socket [id: Dgmocn-7cmKbWCgPAAAB]
+21.8.2025, 15:50:20 - INFO - server.js loaded...
+21.8.2025, 15:50:20 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:50:21 - INFO - New connected socket [id: 5ucAUc-yKxwU59UnAAAB]
+21.8.2025, 15:50:28 - INFO - server.js loaded...
+21.8.2025, 15:50:28 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:50:28 - INFO - New connected socket [id: 5iK4qGwz0kkYKNyLAAAB]
+21.8.2025, 15:50:30 - INFO - Req was made | /
+21.8.2025, 15:50:33 - INFO - New chat msg from socket [id: 5iK4qGwz0kkYKNyLAAAB], emitting to topic 68a70f398d15d7f04d8c9eea
+21.8.2025, 15:51:35 - INFO - server.js loaded...
+21.8.2025, 15:51:35 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:51:37 - INFO - New connected socket [id: JEkhVuSEqUWL4pmtAAAB]
+21.8.2025, 15:51:37 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: JEkhVuSEqUWL4pmtAAAB]
+21.8.2025, 15:51:37 - INFO - Req was made | /
+21.8.2025, 15:51:39 - INFO - Req was made | /
+21.8.2025, 15:51:39 - INFO - Req was made | /
+21.8.2025, 15:51:41 - INFO - Req was made | /
+21.8.2025, 15:53:28 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:53:28 - INFO - server.js loaded...
+21.8.2025, 15:53:28 - INFO - New connected socket [id: SjHkDNWSj1gmLqkhAAAB]
+21.8.2025, 15:53:30 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 15:53:30 - INFO - New connected socket [id: bY5dCDKtHzc3FywyAAAD]
+21.8.2025, 15:53:31 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: bY5dCDKtHzc3FywyAAAD]
+21.8.2025, 15:53:31 - INFO - Req was made | /
+21.8.2025, 15:55:38 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:55:38 - INFO - server.js loaded...
+21.8.2025, 15:55:39 - INFO - New connected socket [id: p8ps3tVhvUlwZpOMAAAB]
+21.8.2025, 15:55:42 - INFO - server.js loaded...
+21.8.2025, 15:55:42 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:55:43 - INFO - New connected socket [id: _w8FAWPG4cJI8_ipAAAB]
+21.8.2025, 15:55:47 - INFO - Req was made | /
+21.8.2025, 15:55:47 - INFO - Req was made | /
+21.8.2025, 15:55:52 - INFO - Req was made | /
+21.8.2025, 15:56:28 - INFO - server.js loaded...
+21.8.2025, 15:56:28 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:56:29 - INFO - New connected socket [id: dhnyY76tZqlD8BvoAAAB]
+21.8.2025, 15:56:30 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 15:56:31 - INFO - New connected socket [id: KliJbUy02axbmvuOAAAD]
+21.8.2025, 15:56:31 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: KliJbUy02axbmvuOAAAD]
+21.8.2025, 15:56:31 - INFO - Req was made | /
+21.8.2025, 15:56:42 - INFO - New chat msg from socket [id: KliJbUy02axbmvuOAAAD], emitting to topic 68a70f398d15d7f04d8c9eea
+21.8.2025, 15:58:55 - INFO - server.js loaded...
+21.8.2025, 15:58:56 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:58:56 - INFO - New connected socket [id: 7LoOWwKYs3vkaHAEAAAB]
+21.8.2025, 15:59:05 - INFO - server.js loaded...
+21.8.2025, 15:59:05 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 15:59:05 - INFO - New connected socket [id: Ao5bzyd72zGbWtjuAAAB]
+21.8.2025, 15:59:45 - INFO - Req was made | /
+21.8.2025, 15:59:45 - INFO - Req was made | /
+21.8.2025, 15:59:50 - INFO - Req was made | /
+21.8.2025, 16:00:50 - INFO - server.js loaded...
+21.8.2025, 16:00:50 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:00:50 - INFO - New connected socket [id: 4oYKGtBye0cZpsC5AAAB]
+21.8.2025, 16:01:20 - INFO - server.js loaded...
+21.8.2025, 16:01:20 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:01:20 - INFO - New connected socket [id: 5eKoy9uSROCdwR96AAAB]
+21.8.2025, 16:01:28 - INFO - server.js loaded...
+21.8.2025, 16:01:28 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:01:29 - INFO - New connected socket [id: eFUdVj-4FFJIphYhAAAB]
+21.8.2025, 16:02:36 - INFO - server.js loaded...
+21.8.2025, 16:02:36 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:02:41 - INFO - New connected socket [id: BnnIpDMgyJ1j6DXIAAAB]
+21.8.2025, 16:03:26 - INFO - server.js loaded...
+21.8.2025, 16:03:26 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:03:26 - INFO - New connected socket [id: UkGRSCP1_5h-0Kv-AAAB]
+21.8.2025, 16:03:53 - INFO - server.js loaded...
+21.8.2025, 16:03:53 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:03:53 - INFO - New connected socket [id: 0GzZ4DVK0KkChxAIAAAB]
+21.8.2025, 16:04:03 - INFO - server.js loaded...
+21.8.2025, 16:04:03 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:04:03 - INFO - New connected socket [id: vYy07iMNn098_X0WAAAB]
+21.8.2025, 16:04:21 - INFO - server.js loaded...
+21.8.2025, 16:04:21 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:04:23 - INFO - New connected socket [id: ImpPBxSQJOC8VsUWAAAB]
+21.8.2025, 16:04:33 - INFO - server.js loaded...
+21.8.2025, 16:04:33 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:04:37 - INFO - New connected socket [id: orcsfnqEP-0PXH_mAAAB]
+21.8.2025, 16:04:41 - INFO - server.js loaded...
+21.8.2025, 16:04:41 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:04:41 - INFO - New connected socket [id: HFyz_WKHvMRfRsUCAAAB]
+21.8.2025, 16:05:01 - INFO - server.js loaded...
+21.8.2025, 16:05:01 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:05:01 - INFO - New connected socket [id: 4UC_NdP6ipW-tKQyAAAB]
+21.8.2025, 16:05:12 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:05:12 - INFO - server.js loaded...
+21.8.2025, 16:05:12 - INFO - New connected socket [id: FiPFMMrHgf5f1RJVAAAB]
+21.8.2025, 16:05:19 - INFO - server.js loaded...
+21.8.2025, 16:05:19 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:05:19 - INFO - New connected socket [id: Q5QPlzMaiRsndkQvAAAB]
+21.8.2025, 16:05:27 - INFO - server.js loaded...
+21.8.2025, 16:05:27 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:05:27 - INFO - New connected socket [id: Fb9ikaj7F8_2F3W5AAAB]
+21.8.2025, 16:05:37 - INFO - server.js loaded...
+21.8.2025, 16:05:37 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:05:37 - INFO - New connected socket [id: S657uVprtungfDZFAAAB]
+21.8.2025, 16:05:45 - INFO - server.js loaded...
+21.8.2025, 16:05:45 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:05:45 - INFO - New connected socket [id: 9_wh9I0J18Rlc2BdAAAB]
+21.8.2025, 16:05:58 - INFO - server.js loaded...
+21.8.2025, 16:05:58 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:05:59 - INFO - New connected socket [id: a7UGvh0b6ZciDekIAAAB]
+21.8.2025, 16:05:59 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: a7UGvh0b6ZciDekIAAAB]
+21.8.2025, 16:05:59 - INFO - Req was made | /
+21.8.2025, 16:06:00 - INFO - Req was made | /
+21.8.2025, 16:06:00 - INFO - Req was made | /
+21.8.2025, 16:06:03 - INFO - Req was made | /
+21.8.2025, 16:06:07 - INFO - New chat msg from socket [id: a7UGvh0b6ZciDekIAAAB], emitting to topic 68a70f398d15d7f04d8c9eea
+21.8.2025, 16:06:28 - INFO - New chat msg from socket [id: a7UGvh0b6ZciDekIAAAB], emitting to topic 68a70f398d15d7f04d8c9eea
+21.8.2025, 16:20:17 - INFO - server.js loaded...
+21.8.2025, 16:20:17 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:20:17 - INFO - New connected socket [id: GFQIG49CLNtSqGvGAAAB]
+21.8.2025, 16:23:31 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 16:23:32 - INFO - New connected socket [id: r1HYEY8Eb9U7zL_lAAAD]
+21.8.2025, 16:23:32 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: r1HYEY8Eb9U7zL_lAAAD]
+21.8.2025, 16:23:32 - INFO - Req was made | /
+21.8.2025, 16:23:38 - INFO - New chat msg from socket [id: r1HYEY8Eb9U7zL_lAAAD], emitting to topic 68a70f398d15d7f04d8c9eea
+21.8.2025, 16:24:53 - INFO - Req was made | /
+21.8.2025, 16:25:13 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 16:25:13 - INFO - New connected socket [id: fBk1NvEtxovRTNYDAAAF]
+21.8.2025, 16:25:13 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: fBk1NvEtxovRTNYDAAAF]
+21.8.2025, 16:25:14 - INFO - Req was made | /
+21.8.2025, 16:25:48 - INFO - Req was made | /
+21.8.2025, 16:26:01 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 16:26:01 - INFO - New connected socket [id: mfaaETbdBzTZTzzRAAAH]
+21.8.2025, 16:26:01 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: mfaaETbdBzTZTzzRAAAH]
+21.8.2025, 16:26:02 - INFO - Req was made | /
+21.8.2025, 16:26:53 - INFO - Req was made | /
+21.8.2025, 16:28:29 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 16:28:29 - INFO - New connected socket [id: 9p88jjmK4i-Q81wCAAAJ]
+21.8.2025, 16:28:29 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: 9p88jjmK4i-Q81wCAAAJ]
+21.8.2025, 16:28:29 - INFO - Req was made | /
+21.8.2025, 16:28:35 - INFO - New chat msg from socket [id: 9p88jjmK4i-Q81wCAAAJ], emitting to topic 68a70f398d15d7f04d8c9eea
+21.8.2025, 16:28:39 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 16:28:40 - INFO - New connected socket [id: RkC2LBKczP1uaputAAAL]
+21.8.2025, 16:28:40 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: RkC2LBKczP1uaputAAAL]
+21.8.2025, 16:28:40 - INFO - Req was made | /
+21.8.2025, 16:31:43 - INFO - Req was made | /

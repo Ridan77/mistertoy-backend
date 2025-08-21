@@ -21,7 +21,6 @@ export async function login(req, res) {
 export async function signup(req, res) {
     try {
         const { username, password, fullname } = req.body
-        console.log(username,password,fullname);
         
         // IMPORTANT!!! 
         // Never write passwords to log file!!!

@@ -53,7 +53,7 @@ export async function updateToy(req, res) {
     try {
         const toy = { ...req.body }
         const updatedToy = await toyService.update(toy)
-        res.json(updatedToy)
+        res.send(updatedToy)
     } catch (err) {
         loggerService.error('Failed to update toy', err)
         res.status(500).send({ err: 'Failed to update toy' })

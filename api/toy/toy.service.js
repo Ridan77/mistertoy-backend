@@ -17,10 +17,15 @@ export const toyService = {
     addToyMsg,
     removeToyMsg,
     getDashboard,
+    saveChat
+
 }
 
 
-async function query(filterBy={}) {
+
+
+
+async function query(filterBy = {}) {
     try {
         const { filter, sort } = _buildCriteria(filterBy)
         const collection = await dbService.getCollection(collectionName)
@@ -37,6 +42,8 @@ async function getById(toyId) {
         const collection = await dbService.getCollection(collectionName)
         const toy = await collection.findOne({ _id: ObjectId.createFromHexString(toyId) })
         toy.createdAt = toy._id.getTimestamp()
+        console.log('toy', toy);
+
         return toy
     } catch (err) {
         loggerService.error(`while finding toy ${toyId}`, err)
@@ -71,10 +78,19 @@ async function add(toy) {
 
 async function update(toy) {
     try {
-        const _id = toy._id
-        delete toy._id
+        const { name, price, inStock, labels, chat, imgUrl } = toy
+        const toyToUpdate = {
+            name,
+            price,
+            inStock,
+            labels,
+            chat,
+            imgUrl
+        }
+
         const collection = await dbService.getCollection(collectionName)
-        await collection.updateOne({ _id: ObjectId.createFromHexString(_id) }, { $set: toy })
+        await collection.updateOne(
+            { _id: ObjectId.createFromHexString(toy._id) }, { $set: toyToUpdate })
         return toy
     } catch (err) {
         loggerService.error(`cannot update toy ${toy._id}`, err)
@@ -140,6 +156,14 @@ async function getDashboard() {
     }
 }
 
+async function saveChat(toyId, msg) {
+    const toy = await getById(toyId)
+    toy._id = toy._id.toString()
+    const toyToSave = { ...toy, chat: [...(toy.chat||[]), msg] }
+    update(toyToSave)
+}
+
+
 function _buildCriteria(filterBy) {
     const filter = {}
     if (filterBy.txt) {
@@ -156,6 +180,6 @@ function _buildCriteria(filterBy) {
     const sort = {}
     if (filterBy.sort) {
         sort[filterBy.sort] = 1
-    } 
+    }
     return { filter, sort }
 }

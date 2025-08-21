@@ -11,7 +11,7 @@ export const toyService = {
     remove,
     save,
     getAllLabels,
-    getDashboardData
+    getDashboardData,
 
 }
 
@@ -67,10 +67,8 @@ function remove(toyId, loggedinUser) {
 }
 
 
-function save(toyToSave, loggedinUser) {
+function save(toyToSave) {
     if (toyToSave._id) {
-        console.log(toyToSave.price === NaN);
-
         for (const key in toyToSave) {
             if (toyToSave[key] === undefined || Number.isNaN(toyToSave[key])) {
                 delete toyToSave[key];
@@ -78,9 +76,7 @@ function save(toyToSave, loggedinUser) {
         }
         const idx = toys.findIndex(toy => toy._id === toyToSave._id)
         if (idx === -1) return Promise.reject('Cannot find toy - ' + toyToSave._id)
-        // if (!loggedinUser.isAdmin && toys[idx].creator._id !== loggedinUser._id) {
-        //     return Promise.reject('Not your toy')
-        // }
+     
         toyToSave = { ...toys[idx], ...toyToSave }
         console.log(toyToSave);
         toys[idx] = toyToSave
@@ -96,8 +92,6 @@ function save(toyToSave, loggedinUser) {
             throw (err)
         })
 }
-
-
 
 
 

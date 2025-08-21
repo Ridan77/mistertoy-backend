@@ -626,3 +626,1045 @@
 21.8.2025, 16:28:40 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: RkC2LBKczP1uaputAAAL]
 21.8.2025, 16:28:40 - INFO - Req was made | /
 21.8.2025, 16:31:43 - INFO - Req was made | /
+21.8.2025, 16:42:40 - INFO - server.js loaded...
+21.8.2025, 16:42:40 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:42:41 - INFO - New connected socket [id: F4OdviqAxPTjTVJ-AAAB]
+21.8.2025, 16:42:49 - INFO - server.js loaded...
+21.8.2025, 16:42:49 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:42:50 - INFO - New connected socket [id: -9izIbGKg6JODvgnAAAB]
+21.8.2025, 16:42:55 - INFO - server.js loaded...
+21.8.2025, 16:42:55 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:42:55 - INFO - New connected socket [id: pxCEqFnDEq9RQ3wwAAAB]
+21.8.2025, 16:42:56 - INFO - server.js loaded...
+21.8.2025, 16:42:56 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:42:58 - INFO - New connected socket [id: fw4dVLfEKGZomAgrAAAB]
+21.8.2025, 16:42:59 - INFO - server.js loaded...
+21.8.2025, 16:42:59 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:43:00 - INFO - New connected socket [id: 9tHcpK3jQ6lsBKHZAAAB]
+21.8.2025, 16:43:02 - INFO - server.js loaded...
+21.8.2025, 16:43:02 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:43:03 - INFO - New connected socket [id: RBT2Vdci_LY7HgfwAAAB]
+21.8.2025, 16:43:31 - INFO - server.js loaded...
+21.8.2025, 16:43:31 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:43:33 - INFO - New connected socket [id: WTNw-kWDS5RJnh-oAAAB]
+21.8.2025, 16:44:05 - INFO - server.js loaded...
+21.8.2025, 16:44:05 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:44:06 - INFO - New connected socket [id: RSWOoB_RBdSIk3buAAAB]
+21.8.2025, 16:44:33 - INFO - server.js loaded...
+21.8.2025, 16:44:33 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:44:34 - INFO - New connected socket [id: XHl-xe-TuVXWcS-UAAAB]
+21.8.2025, 16:44:38 - INFO - server.js loaded...
+21.8.2025, 16:44:38 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:44:39 - INFO - New connected socket [id: dVu0KRqy0hDOtsh5AAAB]
+21.8.2025, 16:45:16 - INFO - server.js loaded...
+21.8.2025, 16:45:16 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 16:45:17 - INFO - New connected socket [id: vOD03O3Kfgq7ALtzAAAB]
+21.8.2025, 17:11:03 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:14:26 - INFO - New connected socket [id: -v7SqcDjXF3z9VciAAAD]
+21.8.2025, 17:15:09 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:15:10 - INFO - New connected socket [id: DLyfGuAiWKxTTCzSAAAF]
+21.8.2025, 17:15:10 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: DLyfGuAiWKxTTCzSAAAF]
+21.8.2025, 17:15:10 - INFO - Req was made | /
+21.8.2025, 17:16:04 - INFO - New connected socket [id: joQIxBL1gNy8RTFfAAAH]
+21.8.2025, 17:16:09 - INFO - Req was made | /
+21.8.2025, 17:16:09 - INFO - Req was made | /
+21.8.2025, 17:16:16 - INFO - Req was made | /
+21.8.2025, 17:16:16 - INFO - Req was made | /
+21.8.2025, 17:16:19 - INFO - Req was made | /
+21.8.2025, 17:16:21 - INFO - Req was made | /
+21.8.2025, 17:16:21 - INFO - Req was made | /
+21.8.2025, 17:16:26 - INFO - Req was made | /
+21.8.2025, 17:16:48 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:16:48 - INFO - New connected socket [id: 77nukapYF4vmcO7WAAAJ]
+21.8.2025, 17:17:02 - DEBUG - auth.service - login with username: muki
+21.8.2025, 17:17:02 - INFO - User login:  | {"_id":"68a34958f010d907885cf3fe","username":"muki","fullname":"mukiel","score":0}
+21.8.2025, 17:17:06 - INFO - Req was made | /
+21.8.2025, 17:17:06 - INFO - Req was made | /
+21.8.2025, 17:17:08 - INFO - Req was made | /
+21.8.2025, 17:17:17 - INFO - New chat msg from socket [id: 77nukapYF4vmcO7WAAAJ], emitting to topic 68a70f398d15d7f04d8c9eea
+21.8.2025, 17:17:33 - INFO - New chat msg from socket [id: 77nukapYF4vmcO7WAAAJ], emitting to topic 68a70f398d15d7f04d8c9eea
+21.8.2025, 17:20:20 - INFO - New connected socket [id: pTpMkpsFdKUypJGjAAAM]
+21.8.2025, 17:20:20 - INFO - New connected socket [id: SxYKikBaDkpw21GoAAAN]
+21.8.2025, 17:20:20 - INFO - Setting socket.userId = 68a34958f010d907885cf3fe for socket [id: pTpMkpsFdKUypJGjAAAM]
+21.8.2025, 17:20:20 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: SxYKikBaDkpw21GoAAAN]
+21.8.2025, 17:20:40 - INFO - New connected socket [id: kd4qfluqsKr23BDSAAAP]
+21.8.2025, 17:20:40 - INFO - Setting socket.userId = 68a34958f010d907885cf3fe for socket [id: kd4qfluqsKr23BDSAAAP]
+21.8.2025, 17:20:40 - INFO - New connected socket [id: _lyGjcG-A_da1bgjAAAR]
+21.8.2025, 17:20:40 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: _lyGjcG-A_da1bgjAAAR]
+21.8.2025, 17:20:44 - INFO - New connected socket [id: wXClV-TK081VvE0AAAAU]
+21.8.2025, 17:20:44 - INFO - New connected socket [id: lmfOjjlv4EPa1iyhAAAV]
+21.8.2025, 17:20:44 - INFO - Setting socket.userId = 68a34958f010d907885cf3fe for socket [id: wXClV-TK081VvE0AAAAU]
+21.8.2025, 17:20:44 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: lmfOjjlv4EPa1iyhAAAV]
+21.8.2025, 17:23:39 - INFO - Req was made | /
+21.8.2025, 17:23:39 - INFO - Req was made | /
+21.8.2025, 17:28:53 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:28:53 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:28:53 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:28:53 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:28:54 - INFO - New connected socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:28:54 - INFO - Setting socket.userId = 68a34958f010d907885cf3fe for socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:28:54 - INFO - Req was made | /
+21.8.2025, 17:28:55 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:28:55 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:28:55 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:28:55 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:28:55 - INFO - New connected socket [id: hT8ZK8oQ8IBjuCL2AAAZ]
+21.8.2025, 17:28:56 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: hT8ZK8oQ8IBjuCL2AAAZ]
+21.8.2025, 17:28:56 - INFO - Req was made | /
+21.8.2025, 17:29:04 - INFO - Removing socket.userId for socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:29:05 - INFO - Removing socket.userId for socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:29:08 - INFO - Removing socket.userId for socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:29:09 - INFO - Removing socket.userId for socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:29:09 - INFO - Removing socket.userId for socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:29:10 - INFO - Removing socket.userId for socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:29:10 - INFO - Removing socket.userId for socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:29:10 - INFO - Removing socket.userId for socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:29:11 - INFO - Removing socket.userId for socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:29:11 - INFO - Removing socket.userId for socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:29:11 - INFO - Removing socket.userId for socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:29:11 - INFO - Removing socket.userId for socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:29:12 - INFO - Removing socket.userId for socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:29:12 - INFO - Removing socket.userId for socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:29:12 - INFO - Removing socket.userId for socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:29:12 - INFO - Removing socket.userId for socket [id: tPudoIWSHryqFQ2xAAAX]
+21.8.2025, 17:29:15 - INFO - Removing socket.userId for socket [id: hT8ZK8oQ8IBjuCL2AAAZ]
+21.8.2025, 17:29:15 - INFO - Removing socket.userId for socket [id: hT8ZK8oQ8IBjuCL2AAAZ]
+21.8.2025, 17:29:16 - INFO - Removing socket.userId for socket [id: hT8ZK8oQ8IBjuCL2AAAZ]
+21.8.2025, 17:29:16 - INFO - Removing socket.userId for socket [id: hT8ZK8oQ8IBjuCL2AAAZ]
+21.8.2025, 17:29:16 - INFO - Removing socket.userId for socket [id: hT8ZK8oQ8IBjuCL2AAAZ]
+21.8.2025, 17:29:17 - INFO - Removing socket.userId for socket [id: hT8ZK8oQ8IBjuCL2AAAZ]
+21.8.2025, 17:29:17 - INFO - Removing socket.userId for socket [id: hT8ZK8oQ8IBjuCL2AAAZ]
+21.8.2025, 17:30:06 - INFO - server.js loaded...
+21.8.2025, 17:30:06 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:30:07 - INFO - New connected socket [id: A8uWXKLX4gjtMhn5AAAC]
+21.8.2025, 17:30:07 - INFO - New connected socket [id: O7q5YHtjAmEeGGeIAAAD]
+21.8.2025, 17:30:11 - INFO - server.js loaded...
+21.8.2025, 17:30:11 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:30:11 - INFO - New connected socket [id: An8WKO86rXhgtEsIAAAB]
+21.8.2025, 17:30:12 - INFO - New connected socket [id: 3jLmfcGJh6iOyy4tAAAD]
+21.8.2025, 17:32:02 - INFO - server.js loaded...
+21.8.2025, 17:32:02 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:32:02 - INFO - New connected socket [id: 7l4kdD7ErGSqpIM-AAAC]
+21.8.2025, 17:32:02 - INFO - New connected socket [id: pKMYRs62i-cowkH-AAAD]
+21.8.2025, 17:32:35 - INFO - server.js loaded...
+21.8.2025, 17:32:35 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:32:35 - INFO - New connected socket [id: HD4rB8pgwpaznvIrAAAB]
+21.8.2025, 17:32:43 - INFO - server.js loaded...
+21.8.2025, 17:32:43 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:32:48 - INFO - New connected socket [id: gB8FtQ6AJnJdbFltAAAC]
+21.8.2025, 17:32:48 - INFO - New connected socket [id: 7ylXOIt0nC0e-ne_AAAD]
+21.8.2025, 17:38:44 - INFO - server.js loaded...
+21.8.2025, 17:38:44 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:38:45 - INFO - New connected socket [id: -jv856sN-k6KChmAAAAC]
+21.8.2025, 17:38:45 - INFO - New connected socket [id: DA8m2JrOs9k-jzeTAAAD]
+21.8.2025, 17:39:05 - INFO - server.js loaded...
+21.8.2025, 17:39:05 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:39:05 - INFO - New connected socket [id: RQR0uLKDK3AGq6VIAAAC]
+21.8.2025, 17:39:05 - INFO - New connected socket [id: sNP9XGZottZYaRSlAAAD]
+21.8.2025, 17:39:07 - INFO - server.js loaded...
+21.8.2025, 17:39:07 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:39:08 - INFO - New connected socket [id: OspjHUtsdLhWJW48AAAC]
+21.8.2025, 17:39:08 - INFO - New connected socket [id: bDw_xh5p3UP05VKuAAAD]
+21.8.2025, 17:39:10 - INFO - server.js loaded...
+21.8.2025, 17:39:10 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:39:11 - INFO - New connected socket [id: K8hpuiqwrOBwPooRAAAC]
+21.8.2025, 17:39:11 - INFO - New connected socket [id: -d2c53mn9pNcj2IDAAAD]
+21.8.2025, 17:39:35 - INFO - server.js loaded...
+21.8.2025, 17:39:35 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:39:39 - INFO - server.js loaded...
+21.8.2025, 17:39:39 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:39:41 - INFO - server.js loaded...
+21.8.2025, 17:39:41 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:39:42 - INFO - server.js loaded...
+21.8.2025, 17:39:42 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:39:44 - INFO - New connected socket [id: ZK1wNdm28nXlYL45AAAC]
+21.8.2025, 17:39:44 - INFO - New connected socket [id: IKjR1p3vBcUYYONRAAAD]
+21.8.2025, 17:39:51 - INFO - server.js loaded...
+21.8.2025, 17:39:51 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:39:53 - INFO - server.js loaded...
+21.8.2025, 17:39:53 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:39:53 - INFO - New connected socket [id: VQ5Dca-itxZTRHLmAAAC]
+21.8.2025, 17:39:53 - INFO - New connected socket [id: iFKQdbSFuqxfIh0QAAAD]
+21.8.2025, 17:39:54 - INFO - server.js loaded...
+21.8.2025, 17:39:54 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:39:54 - INFO - New connected socket [id: GK6m2UHwJWtfnJEZAAAB]
+21.8.2025, 17:39:55 - INFO - New connected socket [id: Iasa4unsq6HVGtIHAAAD]
+21.8.2025, 17:39:56 - INFO - server.js loaded...
+21.8.2025, 17:39:56 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:39:57 - INFO - New connected socket [id: AZZE2vdLxDBdIIkLAAAC]
+21.8.2025, 17:39:57 - INFO - New connected socket [id: dE--yV5PdymlOgWkAAAD]
+21.8.2025, 17:39:58 - INFO - server.js loaded...
+21.8.2025, 17:39:58 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:39:59 - INFO - New connected socket [id: 9y6noTaMq_61f_f6AAAC]
+21.8.2025, 17:39:59 - INFO - New connected socket [id: N9JhH_8rTj14ylmGAAAD]
+21.8.2025, 17:40:01 - INFO - server.js loaded...
+21.8.2025, 17:40:01 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:40:03 - INFO - server.js loaded...
+21.8.2025, 17:40:03 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:40:03 - INFO - New connected socket [id: Ykl7qwN5FDMqsGx5AAAB]
+21.8.2025, 17:40:04 - INFO - New connected socket [id: _hEfTvhWj3-fu2hSAAAD]
+21.8.2025, 17:40:05 - INFO - server.js loaded...
+21.8.2025, 17:40:05 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:40:06 - INFO - New connected socket [id: Zr2OtFNDP2XJqrvQAAAB]
+21.8.2025, 17:40:06 - INFO - New connected socket [id: EGU5zMJsN-iJmAidAAAD]
+21.8.2025, 17:40:08 - INFO - server.js loaded...
+21.8.2025, 17:40:08 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:40:09 - INFO - New connected socket [id: rZmSfXVblLIQMdYqAAAD]
+21.8.2025, 17:40:09 - INFO - New connected socket [id: ivjRjFV061WJKHBnAAAC]
+21.8.2025, 17:40:10 - INFO - server.js loaded...
+21.8.2025, 17:40:11 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:40:11 - INFO - New connected socket [id: uCWSQLse7Hv7Zi80AAAB]
+21.8.2025, 17:40:12 - INFO - New connected socket [id: WiLykEGcriPvNgCkAAAD]
+21.8.2025, 17:40:48 - INFO - server.js loaded...
+21.8.2025, 17:40:48 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:40:48 - INFO - New connected socket [id: uA3YGWfUCONwyJiEAAAB]
+21.8.2025, 17:40:49 - INFO - server.js loaded...
+21.8.2025, 17:40:49 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:40:50 - INFO - New connected socket [id: ezOia_-ztjlq3oAJAAAB]
+21.8.2025, 17:40:50 - INFO - New connected socket [id: PNRadJAg51wv4LieAAAD]
+21.8.2025, 17:43:13 - INFO - server.js loaded...
+21.8.2025, 17:43:13 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:43:13 - INFO - New connected socket [id: m8oqnr4IKyH46qfzAAAC]
+21.8.2025, 17:43:13 - INFO - New connected socket [id: CbPywt-1hGgjQQ0fAAAD]
+21.8.2025, 17:43:15 - INFO - server.js loaded...
+21.8.2025, 17:43:15 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:43:16 - INFO - New connected socket [id: 42LN4AlwpDAmDJOJAAAC]
+21.8.2025, 17:43:16 - INFO - New connected socket [id: 00Coo9E8hgw9TKs6AAAD]
+21.8.2025, 17:43:31 - INFO - server.js loaded...
+21.8.2025, 17:43:31 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:43:31 - INFO - New connected socket [id: TX7S2uOwPsD9XLFSAAAC]
+21.8.2025, 17:43:31 - INFO - New connected socket [id: cpSRrtnXrEfjmV21AAAD]
+21.8.2025, 17:44:02 - INFO - server.js loaded...
+21.8.2025, 17:44:02 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:44:03 - INFO - server.js loaded...
+21.8.2025, 17:44:03 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:44:03 - INFO - New connected socket [id: _PXt_I1Ui-bOXO5TAAAC]
+21.8.2025, 17:44:03 - INFO - New connected socket [id: n_jlhMx7dEghHA36AAAD]
+21.8.2025, 17:44:21 - INFO - server.js loaded...
+21.8.2025, 17:44:22 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:44:23 - INFO - New connected socket [id: LcPWrXqJv4_TPfeyAAAD]
+21.8.2025, 17:44:23 - INFO - New connected socket [id: FDZmH0FPjb0LoKpFAAAC]
+21.8.2025, 17:44:26 - INFO - server.js loaded...
+21.8.2025, 17:44:26 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:44:27 - INFO - New connected socket [id: LVMJ20sMBUwROQvZAAAB]
+21.8.2025, 17:44:28 - INFO - New connected socket [id: uY1DMDsD4tSRoke3AAAD]
+21.8.2025, 17:44:47 - INFO - server.js loaded...
+21.8.2025, 17:44:47 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:44:48 - INFO - New connected socket [id: npNmm5ZCmv2Lub7-AAAB]
+21.8.2025, 17:44:50 - INFO - New connected socket [id: anDQFZRNj5EbeVG0AAAD]
+21.8.2025, 17:45:39 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:48:23 - INFO - New connected socket [id: 6FB0K6YshvuGS3lkAAAF]
+21.8.2025, 17:48:23 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: 6FB0K6YshvuGS3lkAAAF]
+21.8.2025, 17:48:23 - INFO - Req was made | /
+21.8.2025, 17:48:27 - INFO - Removing socket.userId for socket [id: 6FB0K6YshvuGS3lkAAAF]
+21.8.2025, 17:48:27 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 17:48:27 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:48:28 - INFO - Removing socket.userId for socket [id: 6FB0K6YshvuGS3lkAAAF]
+21.8.2025, 17:48:28 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:48:28 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 17:48:28 - INFO - Removing socket.userId for socket [id: 6FB0K6YshvuGS3lkAAAF]
+21.8.2025, 17:48:28 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 17:48:28 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:48:33 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:48:33 - INFO - New connected socket [id: XqOTFzrwTLv0R1jiAAAH]
+21.8.2025, 17:48:34 - INFO - Setting socket.userId = 68a34958f010d907885cf3fe for socket [id: XqOTFzrwTLv0R1jiAAAH]
+21.8.2025, 17:48:34 - INFO - Req was made | /
+21.8.2025, 17:48:51 - INFO - Removing socket.userId for socket [id: XqOTFzrwTLv0R1jiAAAH]
+21.8.2025, 17:48:51 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:48:51 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:48:52 - INFO - Removing socket.userId for socket [id: XqOTFzrwTLv0R1jiAAAH]
+21.8.2025, 17:48:52 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:48:52 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:48:52 - INFO - Removing socket.userId for socket [id: XqOTFzrwTLv0R1jiAAAH]
+21.8.2025, 17:48:52 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:48:52 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:48:53 - INFO - Removing socket.userId for socket [id: XqOTFzrwTLv0R1jiAAAH]
+21.8.2025, 17:48:53 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:48:53 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:48:55 - INFO - Removing socket.userId for socket [id: 6FB0K6YshvuGS3lkAAAF]
+21.8.2025, 17:48:55 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:48:55 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 17:48:56 - INFO - Removing socket.userId for socket [id: 6FB0K6YshvuGS3lkAAAF]
+21.8.2025, 17:48:56 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 17:48:56 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:48:56 - INFO - Removing socket.userId for socket [id: 6FB0K6YshvuGS3lkAAAF]
+21.8.2025, 17:48:56 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:48:56 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 17:48:56 - INFO - Removing socket.userId for socket [id: 6FB0K6YshvuGS3lkAAAF]
+21.8.2025, 17:48:56 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 17:48:56 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:48:59 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:49:00 - INFO - New connected socket [id: sHKw_PHTQsX4FG5oAAAJ]
+21.8.2025, 17:49:00 - INFO - Setting socket.userId = 68a34958f010d907885cf3fe for socket [id: sHKw_PHTQsX4FG5oAAAJ]
+21.8.2025, 17:49:00 - INFO - Req was made | /
+21.8.2025, 17:49:02 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:49:02 - INFO - New connected socket [id: mq7xTDYAQphrCzUjAAAL]
+21.8.2025, 17:49:02 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: mq7xTDYAQphrCzUjAAAL]
+21.8.2025, 17:49:02 - INFO - Req was made | /
+21.8.2025, 17:49:08 - INFO - Removing socket.userId for socket [id: mq7xTDYAQphrCzUjAAAL]
+21.8.2025, 17:49:08 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:49:08 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 17:49:11 - INFO - Removing socket.userId for socket [id: sHKw_PHTQsX4FG5oAAAJ]
+21.8.2025, 17:49:11 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:49:11 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:50:04 - INFO - server.js loaded...
+21.8.2025, 17:50:04 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:50:05 - INFO - New connected socket [id: _dUTEvJzcTIuCiK-AAAC]
+21.8.2025, 17:50:05 - INFO - New connected socket [id: K19BPcQw9SzHFK1FAAAD]
+21.8.2025, 17:50:12 - INFO - server.js loaded...
+21.8.2025, 17:50:12 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 17:50:13 - INFO - New connected socket [id: HWuZz-2NRA_I_NiCAAAB]
+21.8.2025, 17:50:13 - INFO - New connected socket [id: ZNvkIOA_iCG0WlobAAAD]
+21.8.2025, 17:50:13 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:50:13 - INFO - New connected socket [id: O5NB_5kxPHVOq0zlAAAF]
+21.8.2025, 17:50:13 - INFO - Setting socket.userId = 68a34958f010d907885cf3fe for socket [id: O5NB_5kxPHVOq0zlAAAF]
+21.8.2025, 17:50:13 - INFO - Req was made | /
+21.8.2025, 17:50:15 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:50:15 - INFO - New connected socket [id: KqNEF27fZnwcFfAQAAAH]
+21.8.2025, 17:50:15 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: KqNEF27fZnwcFfAQAAAH]
+21.8.2025, 17:50:15 - INFO - Req was made | /
+21.8.2025, 17:50:19 - INFO - Removing socket.userId for socket [id: KqNEF27fZnwcFfAQAAAH]
+21.8.2025, 17:50:19 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:50:19 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 17:50:21 - INFO - Removing socket.userId for socket [id: O5NB_5kxPHVOq0zlAAAF]
+21.8.2025, 17:50:21 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:50:21 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:51:57 - INFO - Req was made | /
+21.8.2025, 17:51:57 - INFO - Req was made | /
+21.8.2025, 17:54:05 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:54:06 - INFO - New connected socket [id: zYbBYjYToDsH8HbRAAAJ]
+21.8.2025, 17:54:06 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: zYbBYjYToDsH8HbRAAAJ]
+21.8.2025, 17:54:06 - INFO - Req was made | /
+21.8.2025, 17:54:30 - INFO - Req was made | /
+21.8.2025, 17:56:58 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:56:58 - INFO - New connected socket [id: lGNHoX2ysMxGOjepAAAL]
+21.8.2025, 17:56:59 - INFO - Setting socket.userId = 68a34958f010d907885cf3fe for socket [id: lGNHoX2ysMxGOjepAAAL]
+21.8.2025, 17:56:59 - INFO - Req was made | /
+21.8.2025, 17:57:20 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:57:20 - INFO - New connected socket [id: m-7Vg5avEfZ9Dwp6AAAN]
+21.8.2025, 17:57:21 - INFO - Setting socket.userId = 68a34958f010d907885cf3fe for socket [id: m-7Vg5avEfZ9Dwp6AAAN]
+21.8.2025, 17:57:21 - INFO - Req was made | /
+21.8.2025, 17:57:26 - INFO - Removing socket.userId for socket [id: m-7Vg5avEfZ9Dwp6AAAN]
+21.8.2025, 17:57:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:57:26 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:57:26 - INFO - Removing socket.userId for socket [id: m-7Vg5avEfZ9Dwp6AAAN]
+21.8.2025, 17:57:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:57:26 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:57:54 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:57:54 - INFO - New connected socket [id: O0fLbs7NOMsLdnAmAAAP]
+21.8.2025, 17:57:54 - INFO - Setting socket.userId = 68a34958f010d907885cf3fe for socket [id: O0fLbs7NOMsLdnAmAAAP]
+21.8.2025, 17:57:54 - INFO - Req was made | /
+21.8.2025, 17:57:56 - INFO - Removing socket.userId for socket [id: O0fLbs7NOMsLdnAmAAAP]
+21.8.2025, 17:57:56 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:57:56 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:57:57 - INFO - Removing socket.userId for socket [id: O0fLbs7NOMsLdnAmAAAP]
+21.8.2025, 17:57:57 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:57:57 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:57:57 - INFO - Removing socket.userId for socket [id: O0fLbs7NOMsLdnAmAAAP]
+21.8.2025, 17:57:57 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:57:57 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:57:57 - INFO - Removing socket.userId for socket [id: O0fLbs7NOMsLdnAmAAAP]
+21.8.2025, 17:57:57 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:57:57 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:57:58 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:57:58 - INFO - Removing socket.userId for socket [id: O0fLbs7NOMsLdnAmAAAP]
+21.8.2025, 17:57:58 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:58:03 - INFO - Removing socket.userId for socket [id: O0fLbs7NOMsLdnAmAAAP]
+21.8.2025, 17:58:03 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:58:03 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:58:03 - INFO - Removing socket.userId for socket [id: O0fLbs7NOMsLdnAmAAAP]
+21.8.2025, 17:58:03 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:58:03 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:58:03 - INFO - Removing socket.userId for socket [id: O0fLbs7NOMsLdnAmAAAP]
+21.8.2025, 17:58:03 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:58:03 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:58:04 - INFO - Removing socket.userId for socket [id: O0fLbs7NOMsLdnAmAAAP]
+21.8.2025, 17:58:04 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:58:04 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:58:04 - INFO - Removing socket.userId for socket [id: O0fLbs7NOMsLdnAmAAAP]
+21.8.2025, 17:58:04 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:58:04 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:58:04 - INFO - Removing socket.userId for socket [id: O0fLbs7NOMsLdnAmAAAP]
+21.8.2025, 17:58:04 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:58:04 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:59:21 - INFO - Removing socket.userId for socket [id: O0fLbs7NOMsLdnAmAAAP]
+21.8.2025, 17:59:21 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:59:21 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:59:22 - INFO - Removing socket.userId for socket [id: O0fLbs7NOMsLdnAmAAAP]
+21.8.2025, 17:59:22 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:59:22 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:59:27 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 17:59:28 - INFO - New connected socket [id: xZnOX5bwIZ45g5klAAAR]
+21.8.2025, 17:59:28 - INFO - Setting socket.userId = 68a34958f010d907885cf3fe for socket [id: xZnOX5bwIZ45g5klAAAR]
+21.8.2025, 17:59:28 - INFO - Req was made | /
+21.8.2025, 17:59:31 - INFO - Removing socket.userId for socket [id: xZnOX5bwIZ45g5klAAAR]
+21.8.2025, 17:59:31 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:59:31 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:59:31 - INFO - Removing socket.userId for socket [id: xZnOX5bwIZ45g5klAAAR]
+21.8.2025, 17:59:31 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:59:31 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:59:41 - INFO - Removing socket.userId for socket [id: zYbBYjYToDsH8HbRAAAJ]
+21.8.2025, 17:59:41 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:59:41 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 17:59:41 - INFO - Removing socket.userId for socket [id: zYbBYjYToDsH8HbRAAAJ]
+21.8.2025, 17:59:41 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 17:59:41 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:59:41 - INFO - Removing socket.userId for socket [id: zYbBYjYToDsH8HbRAAAJ]
+21.8.2025, 17:59:41 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 17:59:41 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:59:42 - INFO - Removing socket.userId for socket [id: zYbBYjYToDsH8HbRAAAJ]
+21.8.2025, 17:59:42 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 17:59:42 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:59:44 - INFO - Removing socket.userId for socket [id: xZnOX5bwIZ45g5klAAAR]
+21.8.2025, 17:59:44 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:59:44 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:59:44 - INFO - Removing socket.userId for socket [id: xZnOX5bwIZ45g5klAAAR]
+21.8.2025, 17:59:44 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:59:44 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:59:44 - INFO - Removing socket.userId for socket [id: xZnOX5bwIZ45g5klAAAR]
+21.8.2025, 17:59:44 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 17:59:44 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:59:45 - INFO - Removing socket.userId for socket [id: xZnOX5bwIZ45g5klAAAR]
+21.8.2025, 17:59:45 - INFO - Broadcasting event: user-typing
+21.8.2025, 17:59:45 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:00:56 - INFO - Removing socket.userId for socket [id: xZnOX5bwIZ45g5klAAAR]
+21.8.2025, 18:00:56 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:00:56 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:00:57 - INFO - Removing socket.userId for socket [id: xZnOX5bwIZ45g5klAAAR]
+21.8.2025, 18:00:57 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:00:57 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:00:59 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:00:59 - INFO - New connected socket [id: 4r0Gfv2BpssHpz2pAAAT]
+21.8.2025, 18:01:00 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: 4r0Gfv2BpssHpz2pAAAT]
+21.8.2025, 18:01:00 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:01:00 - INFO - Req was made | /
+21.8.2025, 18:01:00 - INFO - New connected socket [id: ojkeM4fJVNT27wbCAAAV]
+21.8.2025, 18:01:00 - INFO - Setting socket.userId = 68a34958f010d907885cf3fe for socket [id: ojkeM4fJVNT27wbCAAAV]
+21.8.2025, 18:01:00 - INFO - Req was made | /
+21.8.2025, 18:01:04 - INFO - Removing socket.userId for socket [id: ojkeM4fJVNT27wbCAAAV]
+21.8.2025, 18:01:04 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:01:04 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:01:05 - INFO - Removing socket.userId for socket [id: ojkeM4fJVNT27wbCAAAV]
+21.8.2025, 18:01:05 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:01:05 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:01:06 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:01:06 - INFO - Removing socket.userId for socket [id: 4r0Gfv2BpssHpz2pAAAT]
+21.8.2025, 18:01:06 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:01:07 - INFO - Removing socket.userId for socket [id: 4r0Gfv2BpssHpz2pAAAT]
+21.8.2025, 18:01:07 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:01:07 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:01:08 - INFO - Removing socket.userId for socket [id: ojkeM4fJVNT27wbCAAAV]
+21.8.2025, 18:01:08 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:01:08 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:01:10 - INFO - Removing socket.userId for socket [id: 4r0Gfv2BpssHpz2pAAAT]
+21.8.2025, 18:01:10 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:01:10 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:01:53 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:01:53 - INFO - New connected socket [id: 4wJ-ytWq_aUNz3GmAAAX]
+21.8.2025, 18:01:54 - INFO - Setting socket.userId = 68a34958f010d907885cf3fe for socket [id: 4wJ-ytWq_aUNz3GmAAAX]
+21.8.2025, 18:01:54 - INFO - Req was made | /
+21.8.2025, 18:01:54 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:01:55 - INFO - New connected socket [id: g_Gt2ndVnr1K9fVQAAAZ]
+21.8.2025, 18:01:55 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: g_Gt2ndVnr1K9fVQAAAZ]
+21.8.2025, 18:01:55 - INFO - Req was made | /
+21.8.2025, 18:01:59 - INFO - Removing socket.userId for socket [id: g_Gt2ndVnr1K9fVQAAAZ]
+21.8.2025, 18:01:59 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:01:59 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:01:59 - INFO - Removing socket.userId for socket [id: g_Gt2ndVnr1K9fVQAAAZ]
+21.8.2025, 18:01:59 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:01:59 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:01:59 - INFO - Removing socket.userId for socket [id: g_Gt2ndVnr1K9fVQAAAZ]
+21.8.2025, 18:01:59 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:01:59 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:01 - INFO - Removing socket.userId for socket [id: 4wJ-ytWq_aUNz3GmAAAX]
+21.8.2025, 18:02:01 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:01 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:02:02 - INFO - Removing socket.userId for socket [id: 4wJ-ytWq_aUNz3GmAAAX]
+21.8.2025, 18:02:02 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:02 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:02:02 - INFO - Removing socket.userId for socket [id: 4wJ-ytWq_aUNz3GmAAAX]
+21.8.2025, 18:02:02 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:02:02 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:06 - INFO - Removing socket.userId for socket [id: 4wJ-ytWq_aUNz3GmAAAX]
+21.8.2025, 18:02:06 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:06 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:02:07 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:07 - INFO - Removing socket.userId for socket [id: 4wJ-ytWq_aUNz3GmAAAX]
+21.8.2025, 18:02:07 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:02:07 - INFO - Removing socket.userId for socket [id: 4wJ-ytWq_aUNz3GmAAAX]
+21.8.2025, 18:02:07 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:02:07 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:07 - INFO - Removing socket.userId for socket [id: 4wJ-ytWq_aUNz3GmAAAX]
+21.8.2025, 18:02:07 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:02:07 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:08 - INFO - Removing socket.userId for socket [id: 4wJ-ytWq_aUNz3GmAAAX]
+21.8.2025, 18:02:08 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:02:08 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:20 - INFO - Removing socket.userId for socket [id: g_Gt2ndVnr1K9fVQAAAZ]
+21.8.2025, 18:02:20 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:20 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:02:20 - INFO - Removing socket.userId for socket [id: g_Gt2ndVnr1K9fVQAAAZ]
+21.8.2025, 18:02:20 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:20 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:02:21 - INFO - Removing socket.userId for socket [id: g_Gt2ndVnr1K9fVQAAAZ]
+21.8.2025, 18:02:21 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:02:21 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:27 - INFO - Removing socket.userId for socket [id: g_Gt2ndVnr1K9fVQAAAZ]
+21.8.2025, 18:02:27 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:02:27 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:27 - INFO - Removing socket.userId for socket [id: g_Gt2ndVnr1K9fVQAAAZ]
+21.8.2025, 18:02:27 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:27 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:02:27 - INFO - Removing socket.userId for socket [id: g_Gt2ndVnr1K9fVQAAAZ]
+21.8.2025, 18:02:27 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:02:27 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:28 - INFO - Removing socket.userId for socket [id: g_Gt2ndVnr1K9fVQAAAZ]
+21.8.2025, 18:02:28 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:02:28 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:49 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:02:49 - INFO - New connected socket [id: YwaPmPHKxSbwVIeHAAAb]
+21.8.2025, 18:02:49 - INFO - Setting socket.userId = 68a34958f010d907885cf3fe for socket [id: YwaPmPHKxSbwVIeHAAAb]
+21.8.2025, 18:02:49 - INFO - Req was made | /
+21.8.2025, 18:02:50 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:02:51 - INFO - New connected socket [id: h18SHpM4HSRjRgOqAAAd]
+21.8.2025, 18:02:51 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: h18SHpM4HSRjRgOqAAAd]
+21.8.2025, 18:02:51 - INFO - Req was made | /
+21.8.2025, 18:02:57 - INFO - Removing socket.userId for socket [id: h18SHpM4HSRjRgOqAAAd]
+21.8.2025, 18:02:57 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:57 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:02:58 - INFO - Removing socket.userId for socket [id: h18SHpM4HSRjRgOqAAAd]
+21.8.2025, 18:02:58 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:58 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:02:58 - INFO - Removing socket.userId for socket [id: h18SHpM4HSRjRgOqAAAd]
+21.8.2025, 18:02:58 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:02:58 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:03:00 - INFO - Removing socket.userId for socket [id: YwaPmPHKxSbwVIeHAAAb]
+21.8.2025, 18:03:00 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:03:00 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:03:00 - INFO - Removing socket.userId for socket [id: YwaPmPHKxSbwVIeHAAAb]
+21.8.2025, 18:03:00 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:03:00 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:03:00 - INFO - Removing socket.userId for socket [id: YwaPmPHKxSbwVIeHAAAb]
+21.8.2025, 18:03:00 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:03:00 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:03:01 - INFO - Removing socket.userId for socket [id: h18SHpM4HSRjRgOqAAAd]
+21.8.2025, 18:03:01 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:03:01 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:03:03 - INFO - Removing socket.userId for socket [id: YwaPmPHKxSbwVIeHAAAb]
+21.8.2025, 18:03:03 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:03:03 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:03:11 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:03:11 - INFO - Removing socket.userId for socket [id: YwaPmPHKxSbwVIeHAAAb]
+21.8.2025, 18:03:11 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:03:11 - INFO - Removing socket.userId for socket [id: YwaPmPHKxSbwVIeHAAAb]
+21.8.2025, 18:03:11 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:03:11 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:03:11 - INFO - Removing socket.userId for socket [id: YwaPmPHKxSbwVIeHAAAb]
+21.8.2025, 18:03:11 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:03:11 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:03:14 - INFO - Removing socket.userId for socket [id: YwaPmPHKxSbwVIeHAAAb]
+21.8.2025, 18:03:14 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:03:14 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:03:21 - INFO - Removing socket.userId for socket [id: h18SHpM4HSRjRgOqAAAd]
+21.8.2025, 18:03:21 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:03:21 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:03:23 - INFO - Removing socket.userId for socket [id: YwaPmPHKxSbwVIeHAAAb]
+21.8.2025, 18:03:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:03:23 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:03:24 - INFO - Removing socket.userId for socket [id: h18SHpM4HSRjRgOqAAAd]
+21.8.2025, 18:03:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:03:24 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:03:26 - INFO - Removing socket.userId for socket [id: YwaPmPHKxSbwVIeHAAAb]
+21.8.2025, 18:03:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:03:26 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:03:28 - INFO - Removing socket.userId for socket [id: h18SHpM4HSRjRgOqAAAd]
+21.8.2025, 18:03:28 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:03:28 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:03:31 - INFO - Removing socket.userId for socket [id: h18SHpM4HSRjRgOqAAAd]
+21.8.2025, 18:03:31 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:03:31 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:05:36 - INFO - New connected socket [id: LEtsdk1b9JIqGkX2AAAg]
+21.8.2025, 18:05:36 - INFO - New connected socket [id: apFgot0Wb08EZ7GqAAAh]
+21.8.2025, 18:05:36 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: apFgot0Wb08EZ7GqAAAh]
+21.8.2025, 18:05:36 - INFO - Setting socket.userId = 68a34958f010d907885cf3fe for socket [id: LEtsdk1b9JIqGkX2AAAg]
+21.8.2025, 18:05:40 - INFO - New connected socket [id: 2umxpZr37OBo2BIKAAAk]
+21.8.2025, 18:05:40 - INFO - New connected socket [id: It3QcCyPB16eHv1aAAAl]
+21.8.2025, 18:05:40 - INFO - Setting socket.userId = 68a34958f010d907885cf3fe for socket [id: 2umxpZr37OBo2BIKAAAk]
+21.8.2025, 18:05:40 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: It3QcCyPB16eHv1aAAAl]
+21.8.2025, 18:05:58 - INFO - server.js loaded...
+21.8.2025, 18:05:58 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 18:05:59 - INFO - New connected socket [id: 9T1IPUHqEKQcHwu1AAAG]
+21.8.2025, 18:05:59 - INFO - New connected socket [id: FtneuWlrG0ynvM6YAAAH]
+21.8.2025, 18:05:59 - INFO - New connected socket [id: u0H0uvwapDHNqo4GAAAI]
+21.8.2025, 18:05:59 - INFO - New connected socket [id: CsHnFtU01PLSoZj2AAAJ]
+21.8.2025, 18:05:59 - INFO - New connected socket [id: YwxQ3Gw-URWgHnhJAAAL]
+21.8.2025, 18:05:59 - INFO - New connected socket [id: rFkaVaMd91vZnVz2AAAK]
+21.8.2025, 18:06:04 - INFO - server.js loaded...
+21.8.2025, 18:06:04 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 18:06:04 - INFO - New connected socket [id: 4_KjZtJB9I_pz9sQAAAB]
+21.8.2025, 18:06:05 - INFO - New connected socket [id: rIApoUIoJ0h6gUskAAAH]
+21.8.2025, 18:06:05 - INFO - New connected socket [id: C2ReVgBc1qc9qw_JAAAI]
+21.8.2025, 18:06:05 - INFO - New connected socket [id: yMnxQxDlgt2jTXK2AAAJ]
+21.8.2025, 18:06:05 - INFO - New connected socket [id: iDFL4dtxX_XxHM5xAAAK]
+21.8.2025, 18:06:05 - INFO - New connected socket [id: uIlmgfgUo6YJ4djJAAAL]
+21.8.2025, 18:06:09 - INFO - server.js loaded...
+21.8.2025, 18:06:09 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 18:06:09 - INFO - New connected socket [id: X5a-8U8PufKySokHAAAD]
+21.8.2025, 18:06:09 - INFO - New connected socket [id: y5wxq1J5qBpoNB8DAAAC]
+21.8.2025, 18:06:10 - INFO - New connected socket [id: cismWiAXLnpNxbAKAAAI]
+21.8.2025, 18:06:10 - INFO - New connected socket [id: ZjTwN2Qm4rCCb3OsAAAJ]
+21.8.2025, 18:06:10 - INFO - New connected socket [id: BVsk8Wi26dE4cIkzAAAK]
+21.8.2025, 18:06:10 - INFO - New connected socket [id: ZKIdLR6-fEdY-KrOAAAL]
+21.8.2025, 18:06:11 - INFO - server.js loaded...
+21.8.2025, 18:06:11 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 18:06:12 - INFO - New connected socket [id: eXQ_6EtLnlBPEL38AAAF]
+21.8.2025, 18:06:12 - INFO - New connected socket [id: JrsEyDa1fnMRZzOKAAAE]
+21.8.2025, 18:06:12 - INFO - New connected socket [id: A_Z7l21JACEKL4MdAAAG]
+21.8.2025, 18:06:12 - INFO - New connected socket [id: rmRhWynkrTU7O_l2AAAH]
+21.8.2025, 18:06:13 - INFO - New connected socket [id: 7PbiOKPwXoMUIVJGAAAK]
+21.8.2025, 18:06:13 - INFO - New connected socket [id: -eg_dU_0w762qVONAAAL]
+21.8.2025, 18:06:18 - INFO - server.js loaded...
+21.8.2025, 18:06:18 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 18:06:19 - INFO - New connected socket [id: jtbfhtiNFCB5KgA7AAAG]
+21.8.2025, 18:06:19 - INFO - New connected socket [id: HgkYP39Fe_IQTv78AAAF]
+21.8.2025, 18:06:19 - INFO - New connected socket [id: 7FNIRJ8bYzWkJ_kBAAAH]
+21.8.2025, 18:06:19 - INFO - New connected socket [id: oT0hEcnPUrs49sqBAAAI]
+21.8.2025, 18:06:19 - INFO - New connected socket [id: IVvji3FWL78oixevAAAJ]
+21.8.2025, 18:06:20 - INFO - New connected socket [id: esJ1sVcBgAqsDDeeAAAL]
+21.8.2025, 18:06:21 - INFO - server.js loaded...
+21.8.2025, 18:06:21 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 18:06:21 - INFO - New connected socket [id: pfqpXxMSm9sOIa2nAAAC]
+21.8.2025, 18:06:21 - INFO - New connected socket [id: BF5v0Fyrp7_22kXFAAAD]
+21.8.2025, 18:06:22 - INFO - New connected socket [id: 99rq4_cPIEn2wS1TAAAI]
+21.8.2025, 18:06:22 - INFO - New connected socket [id: YCTnf0zhRD2NhkyxAAAJ]
+21.8.2025, 18:06:22 - INFO - New connected socket [id: f-TrwfbGr0nqexPmAAAK]
+21.8.2025, 18:06:22 - INFO - New connected socket [id: 5nBbUZcA3iZF7z_EAAAL]
+21.8.2025, 18:06:23 - INFO - server.js loaded...
+21.8.2025, 18:06:23 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 18:06:24 - INFO - New connected socket [id: fuOpuU5B3kk_cNfGAAAE]
+21.8.2025, 18:06:24 - INFO - New connected socket [id: qAc4MF3wvDWyJN_aAAAF]
+21.8.2025, 18:06:24 - INFO - New connected socket [id: ZtIaRpdUua5ZM4NaAAAH]
+21.8.2025, 18:06:24 - INFO - New connected socket [id: QvZr5ls1p19mfkmeAAAG]
+21.8.2025, 18:06:25 - INFO - New connected socket [id: WhRgEclsW_b_jov-AAAK]
+21.8.2025, 18:06:25 - INFO - New connected socket [id: V5UZ80cWJXZN9mWJAAAL]
+21.8.2025, 18:06:30 - INFO - server.js loaded...
+21.8.2025, 18:06:30 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 18:06:30 - INFO - New connected socket [id: PnYDQRaxd4rJueysAAAG]
+21.8.2025, 18:06:30 - INFO - New connected socket [id: a7kOsXW0H_A6nlp7AAAI]
+21.8.2025, 18:06:30 - INFO - New connected socket [id: XoXdPWptyWv-Qi7TAAAH]
+21.8.2025, 18:06:30 - INFO - New connected socket [id: p7EqXurIa4eyqAIcAAAJ]
+21.8.2025, 18:06:30 - INFO - New connected socket [id: ZBIjGk5mK6lyrQ-0AAAK]
+21.8.2025, 18:06:30 - INFO - New connected socket [id: QWPDlL228yF8tfeoAAAL]
+21.8.2025, 18:06:39 - INFO - server.js loaded...
+21.8.2025, 18:06:39 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 18:06:39 - INFO - New connected socket [id: ZF5_ZjfYnOjQxk9lAAAC]
+21.8.2025, 18:06:39 - INFO - New connected socket [id: J9rp7UGGPg1F4Q6IAAAD]
+21.8.2025, 18:06:41 - INFO - New connected socket [id: VwQxoHDARJ_hihzNAAAI]
+21.8.2025, 18:06:41 - INFO - New connected socket [id: YsYgQjkamRuvXA-2AAAJ]
+21.8.2025, 18:06:41 - INFO - New connected socket [id: HQT38zfp74Py9f7QAAAK]
+21.8.2025, 18:06:41 - INFO - New connected socket [id: mbQ9W4xCoL_0xgVsAAAL]
+21.8.2025, 18:06:42 - INFO - server.js loaded...
+21.8.2025, 18:06:42 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 18:06:43 - INFO - New connected socket [id: 4adpa2TP3SIEYR5uAAAE]
+21.8.2025, 18:06:43 - INFO - New connected socket [id: g1eRDFhtvOICDz8-AAAF]
+21.8.2025, 18:06:43 - INFO - New connected socket [id: Bt1uxib6F4rCmUFoAAAG]
+21.8.2025, 18:06:43 - INFO - New connected socket [id: 1_uWGJUIVUq5Q-VcAAAH]
+21.8.2025, 18:06:45 - INFO - server.js loaded...
+21.8.2025, 18:06:45 - INFO - Server listening on port http://127.0.0.1:3030/
+21.8.2025, 18:06:46 - INFO - New connected socket [id: De8vioR7iiCFPqy7AAAD]
+21.8.2025, 18:06:46 - INFO - New connected socket [id: CvXSspVYWmtbhHWgAAAE]
+21.8.2025, 18:06:46 - INFO - New connected socket [id: 4r2NZchsvz2DWJNuAAAH]
+21.8.2025, 18:06:46 - INFO - New connected socket [id: cyeK3gVoZ5Nex4NWAAAI]
+21.8.2025, 18:06:46 - INFO - New connected socket [id: EepVk14dC2DjXgw0AAAJ]
+21.8.2025, 18:06:46 - INFO - New connected socket [id: U1wA5dzR1LU8y_GoAAAL]
+21.8.2025, 18:07:37 - INFO - Req was made | /
+21.8.2025, 18:07:37 - INFO - Req was made | /
+21.8.2025, 18:09:54 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:09:54 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:09:57 - INFO - Broadcasting event: user-stop-typing
+21.8.2025, 18:09:57 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:09:58 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:09:58 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:10:01 - INFO - Broadcasting event: user-stop-typing
+21.8.2025, 18:10:01 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:10:04 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:10:04 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:10:07 - INFO - Broadcasting event: user-stop-typing
+21.8.2025, 18:10:07 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:11:15 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:11:15 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:11:15 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:11:15 - INFO - New connected socket [id: 4l5QgGFHEAPuLH6pAAAN]
+21.8.2025, 18:11:16 - INFO - Setting socket.userId = 68a34958f010d907885cf3fe for socket [id: 4l5QgGFHEAPuLH6pAAAN]
+21.8.2025, 18:11:16 - INFO - Req was made | /
+21.8.2025, 18:11:16 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:11:16 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:11:16 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:11:17 - INFO - New connected socket [id: ttC60VJzOmEcDJtvAAAP]
+21.8.2025, 18:11:17 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: ttC60VJzOmEcDJtvAAAP]
+21.8.2025, 18:11:17 - INFO - Req was made | /
+21.8.2025, 18:11:19 - INFO - Req was made | /
+21.8.2025, 18:11:19 - INFO - Req was made | /
+21.8.2025, 18:11:22 - INFO - Req was made | /
+21.8.2025, 18:11:25 - INFO - Req was made | /
+21.8.2025, 18:11:25 - INFO - Req was made | /
+21.8.2025, 18:11:28 - INFO - Req was made | /
+21.8.2025, 18:11:45 - INFO - Req was made | /
+21.8.2025, 18:11:46 - INFO - Req was made | /
+21.8.2025, 18:11:51 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:11:52 - INFO - New connected socket [id: zGI09ncVb-zRTMm4AAAR]
+21.8.2025, 18:11:52 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: zGI09ncVb-zRTMm4AAAR]
+21.8.2025, 18:11:52 - INFO - Req was made | /
+21.8.2025, 18:11:54 - INFO - Req was made | /
+21.8.2025, 18:11:54 - INFO - Req was made | /
+21.8.2025, 18:12:01 - INFO - Req was made | /
+21.8.2025, 18:12:01 - INFO - Req was made | /
+21.8.2025, 18:12:04 - INFO - Req was made | /
+21.8.2025, 18:12:09 - INFO - Req was made | /
+21.8.2025, 18:12:09 - INFO - Req was made | /
+21.8.2025, 18:12:12 - INFO - Req was made | /
+21.8.2025, 18:17:28 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:17:28 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:17:28 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:17:28 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:17:28 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:17:28 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:17:28 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:17:28 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:17:29 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:17:29 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:17:32 - INFO - Broadcasting event: user-stop-typing
+21.8.2025, 18:17:32 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:17:35 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:17:35 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:17:35 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:17:35 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:17:36 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:17:36 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:17:36 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:17:36 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:17:39 - INFO - Broadcasting event: user-stop-typing
+21.8.2025, 18:17:39 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:17:43 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:17:43 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:17:43 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:17:43 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:17:43 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:17:43 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:17:43 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:17:43 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:17:44 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:17:44 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:17:47 - INFO - Broadcasting event: user-stop-typing
+21.8.2025, 18:17:47 - INFO - Broadcast to room 68a70f398d15d7f04d8c9eea excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:26:46 - INFO - Req was made | /
+21.8.2025, 18:26:46 - INFO - Req was made | /
+21.8.2025, 18:26:48 - INFO - Req was made | /
+21.8.2025, 18:26:50 - INFO - Socket is leaving topic 68a70f398d15d7f04d8c9eea [id: zGI09ncVb-zRTMm4AAAR]
+21.8.2025, 18:27:15 - INFO - Req was made | /
+21.8.2025, 18:29:43 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:29:43 - INFO - New connected socket [id: KFoJ0stWJyrxrLspAAAT]
+21.8.2025, 18:29:44 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: KFoJ0stWJyrxrLspAAAT]
+21.8.2025, 18:29:44 - INFO - Req was made | /
+21.8.2025, 18:30:15 - INFO - Req was made | /
+21.8.2025, 18:31:59 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:32:00 - INFO - New connected socket [id: VafR88SFbRWWCCOWAAAV]
+21.8.2025, 18:32:00 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: VafR88SFbRWWCCOWAAAV]
+21.8.2025, 18:32:00 - INFO - Req was made | /
+21.8.2025, 18:33:08 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:33:09 - INFO - New connected socket [id: QM7B_hlUaVdcHmMJAAAX]
+21.8.2025, 18:33:09 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: QM7B_hlUaVdcHmMJAAAX]
+21.8.2025, 18:33:09 - INFO - Req was made | /
+21.8.2025, 18:33:39 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:33:39 - INFO - New connected socket [id: uyV07jnxnNLOhEerAAAZ]
+21.8.2025, 18:33:40 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: uyV07jnxnNLOhEerAAAZ]
+21.8.2025, 18:33:40 - INFO - Req was made | /
+21.8.2025, 18:35:09 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:35:09 - INFO - New connected socket [id: XThwWcWOU6_cQYUWAAAb]
+21.8.2025, 18:35:09 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: XThwWcWOU6_cQYUWAAAb]
+21.8.2025, 18:35:09 - INFO - Req was made | /
+21.8.2025, 18:35:26 - INFO - Req was made | /
+21.8.2025, 18:35:27 - INFO - Req was made | /
+21.8.2025, 18:35:29 - INFO - Req was made | /
+21.8.2025, 18:35:30 - INFO - Socket is leaving topic 68a32041e84c2c1e5067460e [id: XThwWcWOU6_cQYUWAAAb]
+21.8.2025, 18:35:34 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:35:34 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:35:34 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:35:34 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:35:34 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:35:34 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:35:36 - INFO - New chat msg from socket [id: XThwWcWOU6_cQYUWAAAb], emitting to topic 68a32041e84c2c1e5067460f
+21.8.2025, 18:35:37 - INFO - Broadcasting event: user-stop-typing
+21.8.2025, 18:35:37 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:35:38 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:35:38 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:35:38 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:35:38 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:35:39 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:35:39 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:35:39 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:35:39 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:35:39 - INFO - New chat msg from socket [id: XThwWcWOU6_cQYUWAAAb], emitting to topic 68a32041e84c2c1e5067460f
+21.8.2025, 18:35:42 - INFO - Broadcasting event: user-stop-typing
+21.8.2025, 18:35:42 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:35:42 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:35:42 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:35:42 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:35:42 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:35:43 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:35:43 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:35:43 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:35:43 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:35:43 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:35:43 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:35:44 - INFO - New chat msg from socket [id: XThwWcWOU6_cQYUWAAAb], emitting to topic 68a32041e84c2c1e5067460f
+21.8.2025, 18:35:46 - INFO - Broadcasting event: user-stop-typing
+21.8.2025, 18:35:46 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:35:52 - INFO - Req was made | /
+21.8.2025, 18:35:52 - INFO - Req was made | /
+21.8.2025, 18:36:01 - INFO - Req was made | /
+21.8.2025, 18:36:04 - INFO - Socket is leaving topic 68a70f398d15d7f04d8c9eea [id: 4l5QgGFHEAPuLH6pAAAN]
+21.8.2025, 18:36:06 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:06 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:36:07 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:07 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:36:07 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:07 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:36:08 - INFO - New chat msg from socket [id: 4l5QgGFHEAPuLH6pAAAN], emitting to topic 68a32041e84c2c1e5067460f
+21.8.2025, 18:36:10 - INFO - Broadcasting event: user-stop-typing
+21.8.2025, 18:36:10 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:36:12 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:12 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:36:12 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:12 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:36:12 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:12 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:36:12 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:12 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:36:13 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:13 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:36:16 - INFO - Broadcasting event: user-stop-typing
+21.8.2025, 18:36:16 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a34958f010d907885cf3fe
+21.8.2025, 18:36:17 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:17 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:17 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:17 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:18 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:18 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:18 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:18 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:18 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:18 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:21 - INFO - Broadcasting event: user-stop-typing
+21.8.2025, 18:36:21 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:22 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:22 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:22 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:22 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:22 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:22 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:22 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:22 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:22 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:22 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:22 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:22 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:23 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:23 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:23 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:23 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:23 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:23 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:23 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:23 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:23 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:23 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:23 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:23 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:23 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:23 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:23 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:23 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:23 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:23 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:24 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:24 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:25 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:25 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:26 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:26 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:27 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:27 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:27 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:27 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:27 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:27 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:27 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:27 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:27 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:27 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:27 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:27 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:30 - INFO - Broadcasting event: user-stop-typing
+21.8.2025, 18:36:30 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:51 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:51 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:53 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:53 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:53 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:53 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:53 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:53 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:54 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:54 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:54 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:36:54 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:36:57 - INFO - Broadcasting event: user-stop-typing
+21.8.2025, 18:36:57 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:37:20 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:37:21 - INFO - New connected socket [id: RyDoZa647zcr20KVAAAd]
+21.8.2025, 18:37:21 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: RyDoZa647zcr20KVAAAd]
+21.8.2025, 18:37:21 - INFO - Req was made | /
+21.8.2025, 18:37:35 - INFO - Socket disconnected [id: undefined]
+21.8.2025, 18:37:36 - INFO - New connected socket [id: hxPplpeQeI--6-oZAAAf]
+21.8.2025, 18:37:36 - INFO - Setting socket.userId = 68a3540474da410ce68e7fe8 for socket [id: hxPplpeQeI--6-oZAAAf]
+21.8.2025, 18:37:36 - INFO - Req was made | /
+21.8.2025, 18:37:38 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:37:38 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:37:38 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:37:38 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:37:39 - INFO - Broadcasting event: user-typing
+21.8.2025, 18:37:39 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8
+21.8.2025, 18:37:40 - INFO - New chat msg from socket [id: hxPplpeQeI--6-oZAAAf], emitting to topic 68a32041e84c2c1e5067460f
+21.8.2025, 18:37:42 - INFO - Broadcasting event: user-stop-typing
+21.8.2025, 18:37:42 - INFO - Broadcast to room 68a32041e84c2c1e5067460f excluding user: 68a3540474da410ce68e7fe8

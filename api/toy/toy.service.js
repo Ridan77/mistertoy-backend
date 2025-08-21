@@ -42,7 +42,6 @@ async function getById(toyId) {
         const collection = await dbService.getCollection(collectionName)
         const toy = await collection.findOne({ _id: ObjectId.createFromHexString(toyId) })
         toy.createdAt = toy._id.getTimestamp()
-        console.log('toy', toy);
 
         return toy
     } catch (err) {
@@ -53,7 +52,6 @@ async function getById(toyId) {
 
 async function remove(toyId) {
     try {
-        console.log(toyId);
 
         const collection = await dbService.getCollection(collectionName)
         const { deletedCount } = await collection.deleteOne({ _id: ObjectId.createFromHexString(toyId) })

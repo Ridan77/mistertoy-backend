@@ -15,15 +15,16 @@ export function setupSocketAPI(http) {
         socket.on('disconnect', socket => {
             logger.info(`Socket disconnected [id: ${socket.id}]`)
         })
-        socket.on('chat-set-topic', topic => {
-            if (socket.myTopic === topic) return
+        socket.on('chat-set-topic-and-id', topic => {
+            if (socket.myTopic === topic.toyId) return
             if (socket.myTopic) {
                 socket.leave(socket.myTopic)
                 logger.info(`Socket is leaving topic ${socket.myTopic} [id: ${socket.id}]`)
                 console.log(`Socket is leaving topic ${socket.myTopic} [id: ${socket.id}]`)
             }
-            socket.join(topic)
-            socket.myTopic = topic
+            socket.join(topic.toyId)
+            socket.myTopic = topic.toyId
+            socket.userId = topic.userId
             console.log(`Socket is joining topic ${socket.myTopic} [id: ${socket.id}]`)
         })
         socket.on('chat-send-msg', msg => {
@@ -46,6 +47,15 @@ export function setupSocketAPI(http) {
             logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
             delete socket.userId
         })
+          socket.on('user-typing', msg => {
+            // gIo.to(socket.myTopic).emit('user-typing', msg)
+            broadcast({ type:'user-typing', data: msg, room:socket.myTopic, userId:socket.userId })
+        })
+              socket.on('user-stop-typing', msg => {
+            // gIo.to(socket.myTopic).emit('user-typing', msg)
+            broadcast({ type:'user-stop-typing', data: msg, room:socket.myTopic, userId:socket.userId })
+        })
+
 
     })
 }
